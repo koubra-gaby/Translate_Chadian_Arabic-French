@@ -1,0 +1,200 @@
+/* src/index.css */
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* -------------------------------------------------------------------------------------- */
+/* Styles GLOBALS de l'APPLICATION (Mode Sombre par défaut) */
+/* -------------------------------------------------------------------------------------- */
+
+html, body, #root {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+    font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+    /* Dégradé de l'arrière-plan pour le mode sombre */
+    background: linear-gradient(135deg, #0f172a 0%, #1e293b 100%);
+    min-height: 100vh;
+    color: #e2e8f0; /* Couleur de texte par défaut pour le mode sombre */
+    transition: background 0.5s ease, color 0.5s ease; /* Transition pour le changement de thème */
+}
+
+/* Styles pour le mode CLAIR sur le body */
+html.light body {
+    background: linear-gradient(135deg, #ffffff 0%, #ffffff 100%); /* Nouveau dégradé blanc pour le mode clair */
+    color: #1a202c; /* Couleur de texte sombre pour le mode clair */
+}
+
+/* -------------------------------------------------------------------------------------- */
+/* Styles de vos classes CSS personnalisées (Mode Sombre par défaut et Mode Clair) */
+/* -------------------------------------------------------------------------------------- */
+
+.translate-container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+/* language-swap-btn */
+.language-swap-btn {
+    transition: all 0.3s ease;
+    background: rgba(59, 130, 246, 0.1); /* bg-blue-500/10 */
+    border: 1px solid rgba(59, 130, 246, 0.2); /* border-blue-500/20 */
+    color: #3b82f6; /* Icône bleue en mode sombre */
+}
+/* Mode Clair pour language-swap-btn */
+html.light .language-swap-btn {
+    background: rgba(240, 241, 243, 0.5); /* Votre nouveau fond très clair pour le mode clair */
+    border-color: rgba(59, 130, 246, 0.4); /* Votre bordure bleue pour le mode clair */
+    color: #3b82f6; /* Icône bleue en mode clair */
+}
+
+.language-swap-btn:hover {
+    transform: rotate(180deg);
+    background: rgba(59, 130, 246, 0.2);
+    border-color: rgba(59, 130, 246, 0.4);
+}
+/* Mode Clair pour language-swap-btn:hover */
+html.light .language-swap-btn:hover {
+    background: rgba(255, 255, 255, 0.5); /* Votre nouveau hover pour le mode clair */
+    border-color: rgba(59, 130, 246, 0.6); /* Bordure un peu plus foncée au hover en mode clair */
+}
+
+
+/* text-area-container */
+.text-area-container {
+    background: rgba(15, 23, 42, 0.8); /* slate-900/80 pour le mode sombre */
+    border: 1px solid rgba(71, 85, 105, 0.3); /* slate-600/30 */
+    border-radius: 16px;
+    backdrop-filter: blur(10px);
+    transition: all 0.3s ease;
+}
+/* Mode Clair pour text-area-container */
+html.light .text-area-container {
+    background: rgba(255, 255, 255, 1); /* Votre nouveau fond blanc opaque pour le mode clair */
+    border-color: rgba(71, 85, 105, 0.4); /* Bordure légèrement plus foncée */
+}
+
+/* Cibler le textarea à l'intérieur de .text-area-container */
+.text-area-container textarea {
+    color: #e2e8f0; /* Blanc très clair pour le texte en mode sombre */
+}
+/* Mode Clair pour le textarea */
+html.light .text-area-container textarea {
+    color: #000000; /* Noir pour le texte en mode clair */
+}
+
+/* Styles pour le placeholder (le texte "Entrez le texte..." avant de taper) */
+.text-area-container textarea::placeholder {
+    color: #94a3b8; /* Gris clair pour le placeholder en mode sombre */
+    opacity: 1;
+}
+/* Mode Clair pour le placeholder */
+html.light .text-area-container textarea::placeholder {
+    color: #64748b; /* Gris plus foncé pour le placeholder en mode clair */
+}
+
+
+.text-area-container:focus-within {
+    border-color: #3b82f6; /* blue-500 pour le mode sombre */
+    box-shadow: 0 0 0 1px #3b82f6, 0 0 20px rgba(59, 130, 246, 0.1);
+}
+/* Mode Clair pour text-area-container:focus-within */
+html.light .text-area-container:focus-within {
+    border-color: #000205; /* Votre nouvelle bordure focus noire */
+    box-shadow: 0 0 0 1px #0d46b7, 0 0 20px rgba(59, 130, 246, 0.15); /* Votre nouvelle ombre focus bleue */
+}
+
+
+/* translate-btn (ce bouton conserve son dégradé dans les deux modes) */
+.translate-btn {
+    background: linear-gradient(135deg, #3b82f6, #6366f1); /* blue-500 to indigo-500 */
+    transition: all 0.3s ease;
+    border-radius: 50px;
+    box-shadow: 0 8px 32px rgba(59, 130, 246, 0.3);
+}
+
+.translate-btn:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 12px 40px rgba(59, 130, 246, 0.4);
+    background: linear-gradient(135deg, #2563eb, #4f46e5); /* blue-600 to indigo-600 */
+}
+/* Votre nouveau hover pour le mode clair (légèrement ajusté pour être cohérent) */
+html.light .translate-btn:hover {
+    background: linear-gradient(135deg, #4079f3, #4f46e5); /* Votre nouveau hover */
+}
+
+
+/* loading-dots (couleur adaptée au thème) */
+.loading-dots {
+    animation: loading 1.5s infinite;
+}
+
+@keyframes loading {
+    0%, 60%, 100% { transform: translateY(0); }
+    30% { transform: translateY(-10px); }
+}
+
+
+/* glass-card */
+.glass-card {
+    background: rgba(15, 23, 42, 0.7); /* slate-900/70 pour le mode sombre */
+    backdrop-filter: blur(20px);
+    border: 1px solid rgba(71, 85, 105, 0.2); /* slate-600/20 */
+    border-radius: 20px;
+    box-shadow: 0 8px 32px rgba(0, 0, 0, 0.3);
+    color: #e2e8f0; /* Texte clair pour le mode sombre */
+    transition: background 0.3s ease, border-color 0.3s ease, box-shadow 0.3s ease, color 0.3s ease;
+}
+/* Mode Clair pour glass-card */
+html.light .glass-card {
+    background: rgba(60, 34, 231, 0.7); /* Votre nouveau fond bleu violet pour le mode clair */
+    border-color: rgba(71, 85, 105, 0.4); /* Bordure légèrement plus foncée */
+    box-shadow: 0 8px 32px rgba(0, 0, 0, 0.15); /* Ombre plus légère */
+    color: #f8fafc; /* Texte très clair pour le mode clair */
+}
+
+
+/* glass-header */
+.glass-header {
+    background: rgba(15, 23, 42, 0.9); /* slate-900/90 pour le mode sombre */
+    backdrop-filter: blur(20px);
+    border-bottom: 1px solid rgba(71, 85, 105, 0.2); /* slate-600/20 */
+    color: #e2e8f0; /* Texte clair pour le mode sombre */
+    transition: background 0.3s ease, border-color 0.3s ease, color 0.3s ease;
+}
+/* Mode Clair pour glass-header */
+html.light .glass-header {
+    background: rgba(255, 255, 255, 0.9); /* Votre nouveau fond blanc semi-transparent pour le mode clair */
+    border-bottom-color: rgba(71, 85, 105, 0.4); /* Bordure légèrement plus foncée */
+    color: #1a202c; /* Texte sombre pour le mode clair */
+}
+
+/* Styles pour la barre de défilement personnalisée */
+.custom-scrollbar::-webkit-scrollbar {
+    width: 8px;
+}
+.custom-scrollbar::-webkit-scrollbar-track {
+    background: #334155; /* slate-700 pour le mode sombre */
+    border-radius: 4px;
+}
+html.light .custom-scrollbar::-webkit-scrollbar-track {
+    background: #e2e8f0; /* slate-200 pour le mode clair */
+}
+.custom-scrollbar::-webkit-scrollbar-thumb {
+    background: #475569; /* slate-600 pour le mode sombre */
+    border-radius: 4px;
+}
+html.light .custom-scrollbar::-webkit-scrollbar-thumb {
+    background: #94a3b8; /* slate-400 pour le mode clair */
+}
+.custom-scrollbar::-webkit-scrollbar-thumb:hover {
+    background: #64748b; /* slate-500 pour le mode sombre */
+}
+html.light .custom-scrollbar::-webkit-scrollbar-thumb:hover {
+    background: #64748b; /* slate-500 pour le mode clair */
+}
