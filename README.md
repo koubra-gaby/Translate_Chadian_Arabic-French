@@ -12,8 +12,8 @@ L'organisation de ce dépôt suit une architecture modulaire, ce qui facilite la
 
 * **`Backend/`** : Ce dossier contient les fichiers de la logique métier, la logique du serveur, et la gestion des données pour l'application de traduction.
 * **`interface/`** : Contient le code source de l'interface utilisateur.
-* **`modèle_ensemble_de_données/`** : Ce dossier contient les datasets du projet. Il y'a dans ce dossier deux sous dossier dont le dossier \mini_dataset qui contient juste une partie de l'ensemble du dataset afin de permettre d'entrainer le modele dans les GPU gratuits comme Kaggle et le dossier \complet_dataset qui contient l'ensemble de nos données.
-* **`notebooks`** : Les notebooks code_entrainement.ipynb qui contient les codes pour l'entrainement,scrapping.ipynb pour l'extraction et traitement_données.ipynb pour le nettoyage de nos données.
+* **`modèle_ensemble_de_données/`** : Ce dossier contient les datasets du projet. Il y a dans ce dossier deux sous-dossiers dont le dossier `mini_dataset` qui contient juste une partie de l'ensemble du dataset afin de permettre d'entraîner le modèle dans les GPU gratuits comme Kaggle et le dossier `complet_dataset` qui contient l'ensemble de nos données.
+* **`notebooks`** : : Les notebooks `code_entrainement.ipynb` qui contient les codes pour l'entraînement, `scrapping.ipynb` pour l'extraction et `traitement_données.ipynb` pour le nettoyage de nos données.
 
 ---
 
