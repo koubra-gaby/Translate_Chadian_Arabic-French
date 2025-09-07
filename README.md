@@ -43,5 +43,5 @@ Pour cloner et lancer une version locale du projet, suis les étapes ci-dessous.
 
 Les contributions sont les bienvenues ! N'hésite pas à ouvrir une `issue` ou une `pull request` pour proposer des améliorations.
 
-* **LinkedIn :** [Koubra Gaby ](www.linkedin.com/in/koubra-gaby-309a50250)
+* **LinkedIn :** [Koubra Gaby](https://www.linkedin.com/in/koubra-gaby-309a50250?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BEnIDMuXQT%2B6S7wHraGiLNg%3D%3D)
 * **E-mail :** koubragaby1@gmail.com
