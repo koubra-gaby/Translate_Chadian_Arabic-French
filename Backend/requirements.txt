@@ -1,0 +1,7 @@
+Flask==2.3.2
+Flask-SQLAlchemy==3.0.3
+Flask-Bcrypt==1.0.1
+Flask-JWT-Extended==4.3.1
+python-dotenv==1.0.0
+requests==2.32.2 # Si vous utilisez une API externe de traduction
+Flask-CORS==3.0.10 # Pour gérer les requêtes cross-origin du frontend 

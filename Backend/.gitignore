@@ -1,0 +1,19 @@
+# Fichiers et dossiers créés par Python
+__pycache__/
+*.pyc
+
+# Environnements virtuels
+.venv/
+venv/
+
+# Fichiers de configuration sensibles
+.env
+.flaskenv
+
+# Fichiers de build
+dist/
+build/
+
+# Fichiers spécifiques au système d'exploitation
+.DS_Store
+Thumbs.db
