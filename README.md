@@ -23,6 +23,7 @@ Les données utilisées pour ce projet ont été extraites à partir des sources
 * [Bible Gateway](https://www.biblegateway.com/) : Pour l'extraction de nos données en français
 * [tala-al-nuur-fi-tchaad](https://www.tala-al-nuur-fi-tchaad.com/fr)- : Pour l'extraction de nos données en arabe tchadien
 
+---
 
 ### Technologies utilisées 🛠️
 
