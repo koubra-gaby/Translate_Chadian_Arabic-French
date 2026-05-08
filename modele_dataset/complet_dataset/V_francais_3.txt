@@ -2840,36 +2840,36 @@ Il donnera, en y ajoutant un cinquième, la valeur de la chose dont il a frustr�
 Lorsque quelqu'un péchera en faisant, sans le savoir, contre l'un des commandements de l'Éternel, des choses qui ne doivent point se faire, il se rendra coupable et sera chargé de sa faute.
 Il présentera au sacrificateur en sacrifice de culpabilité un bélier sans défaut, pris du troupeau d'après ton estimation. Et le sacrificateur fera pour lui l'expiation de la faute qu'il a commise sans le savoir, et il lui sera pardonné.
 C'est un sacrifice de culpabilité. Cet homme s'était rendu coupable envers l'Éternel.
-(5:20) L'Éternel parla à Moïse, et dit:
-(5:21 Lorsque quelqu'un péchera et commettra une infidélité envers l'Éternel, en mentant à son prochain au sujet d'un dépôt, d'un objet confié à sa garde, d'une chose volée ou soustraite par fraude,
-(5:22) en niant d'avoir trouvé une chose perdue, ou en faisant un faux serment sur une chose quelconque de nature à constituer un péché;
-(5:23) lorsqu'il péchera ainsi et se rendra coupable, il restituera la chose qu'il a volée ou soustraite par fraude, la chose qui lui avait été confiée en dépôt, la chose perdue qu'il a trouvée,
-(5:24) ou la chose quelconque sur laquelle il a fait un faux serment. Il la restituera en son entier, y ajoutera un cinquième, et la remettra à son propriétaire, le jour même où il offrira son sacrifice de culpabilité.
-(5:25) Il présentera au sacrificateur en sacrifice de culpabilité à l'Éternel pour son péché un bélier sans défaut, pris du troupeau d'après ton estimation.
-(5:26) Et le sacrificateur fera pour lui l'expiation devant l'Éternel, et il lui sera pardonné, quelle que soit la faute dont il se sera rendu coupable.
-(6:1) L'Éternel parla à Moïse, et dit:
-(6:2) Donne cet ordre à Aaron et à ses fils, et dis: Voici la loi de l'holocauste. L'holocauste restera sur le foyer de l'autel toute la nuit jusqu'au matin, et le feu brûlera sur l'autel.
-(6:3) Le sacrificateur revêtira sa tunique de lin, et mettra des caleçons sur sa chair, il enlèvera la cendre faite par le feu qui aura consumé l'holocauste sur l'autel, et il la déposera près de l'autel.
-(6:4) Puis il quittera ses vêtements et en mettra d'autres, pour porter la cendre hors du camp, dans un lieu pur.
-(6:5) Le feu brûlera sur l'autel, il ne s'éteindra point; chaque matin, le sacrificateur y allumera du bois, arrangera l'holocauste, et brûlera la graisse des sacrifices d'actions de grâces.
-(6:6) Le feu brûlera continuellement sur l'autel, il ne s'éteindra point.
-(6:7) Voici la loi de l'offrande. Les fils d'Aaron la présenteront devant l'Éternel, devant l'autel.
-(6:8) Le sacrificateur prélèvera une poignée de la fleur de farine et de l'huile, avec tout l'encens ajouté à l'offrande, et il brûlera cela sur l'autel comme souvenir d'une agréable odeur à l'Éternel.
-(6:9) Aaron et ses fils mangeront ce qui restera de l'offrande; ils le mangeront sans levain, dans un lieu saint, dans le parvis de la tente d'assignation.
-(6:10) On ne le cuira pas avec du levain. C'est la part que je leur ai donnée de mes offrandes consumées par le feu. C'est une chose très sainte, comme le sacrifice d'expiation et comme le sacrifice de culpabilité.
-(6:11) Tout mâle d'entre les enfants d'Aaron en mangera. C'est une loi perpétuelle pour vos descendants, au sujet des offrandes consumées par le feu devant l'Éternel: quiconque y touchera sera sanctifié.
-(6:12) L'Éternel parla à Moïse, et dit:
-(6:13) Voici l'offrande qu'Aaron et ses fils feront à l'Éternel, le jour où ils recevront l'onction: un dixième d'épha de fleur de farine, comme offrande perpétuelle, moitié le matin et moitié le soir.
-(6:14) Elle sera préparée à la poêle avec de l'huile, et tu l'apporteras frite; tu la présenteras aussi cuite et en morceaux comme une offrande d'une agréable odeur à l'Éternel.
-(6:15) Le sacrificateur qui, parmi les fils d'Aaron, sera oint pour lui succéder, fera aussi cette offrande. C'est une loi perpétuelle devant l'Éternel: elle sera brûlée en entier.
-(6:16) Toute offrande d'un sacrificateur sera brûlée en entier; elle ne sera point mangée.
-(6:17) L'Éternel parla à Moïse, et dit:
-(6:18) Parle à Aaron et à ses fils, et dis: Voici la loi du sacrifice d'expiation. C'est dans le lieu où l'on égorge l'holocauste que sera égorgée devant l'Éternel la victime pour le sacrifice d'expiation: c'est une chose très sainte.
-(6:19) Le sacrificateur qui offrira la victime expiatoire la mangera; elle sera mangée dans un lieu saint, dans le parvis de la tente d'assignation.
-(6:20) Quiconque en touchera la chair sera sanctifié. S'il en rejaillit du sang sur un vêtement, la place sur laquelle il aura rejailli sera lavée dans un lieu saint.
-(6:21) Le vase de terre dans lequel elle aura cuit sera brisé; si c'est dans un vase d'airain qu'elle a cuit, il sera nettoyé et lavé dans l'eau.
-(6:22) Tout mâle parmi les sacrificateurs en mangera: c'est une chose très sainte.
-(6:23) Mais on ne mangera aucune victime expiatoire dont on apportera du sang dans la tente d'assignation, pour faire l'expiation dans le sanctuaire: elle sera brûlée au feu.
+L'Éternel parla à Moïse, et dit:
+Lorsque quelqu'un péchera et commettra une infidélité envers l'Éternel, en mentant à son prochain au sujet d'un dépôt, d'un objet confié à sa garde, d'une chose volée ou soustraite par fraude,
+en niant d'avoir trouvé une chose perdue, ou en faisant un faux serment sur une chose quelconque de nature à constituer un péché;
+lorsqu'il péchera ainsi et se rendra coupable, il restituera la chose qu'il a volée ou soustraite par fraude, la chose qui lui avait été confiée en dépôt, la chose perdue qu'il a trouvée,
+ou la chose quelconque sur laquelle il a fait un faux serment. Il la restituera en son entier, y ajoutera un cinquième, et la remettra à son propriétaire, le jour même où il offrira son sacrifice de culpabilité.
+Il présentera au sacrificateur en sacrifice de culpabilité à l'Éternel pour son péché un bélier sans défaut, pris du troupeau d'après ton estimation.
+Et le sacrificateur fera pour lui l'expiation devant l'Éternel, et il lui sera pardonné, quelle que soit la faute dont il se sera rendu coupable.
+L'Éternel parla à Moïse, et dit:
+Donne cet ordre à Aaron et à ses fils, et dis: Voici la loi de l'holocauste. L'holocauste restera sur le foyer de l'autel toute la nuit jusqu'au matin, et le feu brûlera sur l'autel.
+Le sacrificateur revêtira sa tunique de lin, et mettra des caleçons sur sa chair, il enlèvera la cendre faite par le feu qui aura consumé l'holocauste sur l'autel, et il la déposera près de l'autel.
+Puis il quittera ses vêtements et en mettra d'autres, pour porter la cendre hors du camp, dans un lieu pur.
+Le feu brûlera sur l'autel, il ne s'éteindra point; chaque matin, le sacrificateur y allumera du bois, arrangera l'holocauste, et brûlera la graisse des sacrifices d'actions de grâces.
+Le feu brûlera continuellement sur l'autel, il ne s'éteindra point.
+Voici la loi de l'offrande. Les fils d'Aaron la présenteront devant l'Éternel, devant l'autel.
+Le sacrificateur prélèvera une poignée de la fleur de farine et de l'huile, avec tout l'encens ajouté à l'offrande, et il brûlera cela sur l'autel comme souvenir d'une agréable odeur à l'Éternel.
+Aaron et ses fils mangeront ce qui restera de l'offrande; ils le mangeront sans levain, dans un lieu saint, dans le parvis de la tente d'assignation.
+On ne le cuira pas avec du levain. C'est la part que je leur ai donnée de mes offrandes consumées par le feu. C'est une chose très sainte, comme le sacrifice d'expiation et comme le sacrifice de culpabilité.
+Tout mâle d'entre les enfants d'Aaron en mangera. C'est une loi perpétuelle pour vos descendants, au sujet des offrandes consumées par le feu devant l'Éternel: quiconque y touchera sera sanctifié.
+L'Éternel parla à Moïse, et dit:
+Voici l'offrande qu'Aaron et ses fils feront à l'Éternel, le jour où ils recevront l'onction: un dixième d'épha de fleur de farine, comme offrande perpétuelle, moitié le matin et moitié le soir.
+Elle sera préparée à la poêle avec de l'huile, et tu l'apporteras frite; tu la présenteras aussi cuite et en morceaux comme une offrande d'une agréable odeur à l'Éternel.
+Le sacrificateur qui, parmi les fils d'Aaron, sera oint pour lui succéder, fera aussi cette offrande. C'est une loi perpétuelle devant l'Éternel: elle sera brûlée en entier.
+Toute offrande d'un sacrificateur sera brûlée en entier; elle ne sera point mangée.
+'Éternel parla à Moïse, et dit:
+Parle à Aaron et à ses fils, et dis: Voici la loi du sacrifice d'expiation. C'est dans le lieu où l'on égorge l'holocauste que sera égorgée devant l'Éternel la victime pour le sacrifice d'expiation: c'est une chose très sainte.
+Le sacrificateur qui offrira la victime expiatoire la mangera; elle sera mangée dans un lieu saint, dans le parvis de la tente d'assignation.
+Quiconque en touchera la chair sera sanctifié. S'il en rejaillit du sang sur un vêtement, la place sur laquelle il aura rejailli sera lavée dans un lieu saint.
+Le vase de terre dans lequel elle aura cuit sera brisé; si c'est dans un vase d'airain qu'elle a cuit, il sera nettoyé et lavé dans l'eau.
+Tout mâle parmi les sacrificateurs en mangera: c'est une chose très sainte.
+Mais on ne mangera aucune victime expiatoire dont on apportera du sang dans la tente d'assignation, pour faire l'expiation dans le sanctuaire: elle sera brûlée au feu.
 Voici la loi du sacrifice de culpabilité: c'est une chose très sainte.
 C'est dans le lieu où l'on égorge l'holocauste que sera égorgée la victime pour le sacrifice de culpabilité. On en répandra le sang sur l'autel tout autour.
 On en offrira toute la graisse, la queue, la graisse qui couvre les entrailles,
@@ -31991,3 +31991,6936 @@ c'est bien ce que j'ai vue
  mon ami m'a donné un conseil
 
  tu doit bien attaché ta ceinture
+
+ refuser
+il va refuser
+adorer Dieu
+il va adorer Dieu
+pour toujours
+jamais
+éternel
+éternel
+aisselle
+aisselles
+papa
+réduire en esclavage
+il va reduire en esclavage
+boulette
+boulettes
+esclave
+esclaves
+nom familier du chameau
+muet
+muette
+muets
+rose(couleur)
+rose
+roses
+père
+pères
+araignées
+papillons
+pancréas
+gecko
+petit oiseau de brousse
+tortue
+tortues
+tique
+tiques
+grosse fourmi
+blanc
+blanche
+blancs
+vivre
+il va vivre
+repas du soir
+espérance
+parce que ou pour que
+dix
+dizaine
+se fortifier
+il va se fortifier
+retourner
+il va se retourner
+encourager
+il va etre encouragé
+se moquer
+il va se moquer
+couvrir une femelle
+il va couvrir une femelle
+se voir
+il va se voire
+se consulter
+il va se consulter
+secret
+secrets
+dixième
+dixième
+après-midi
+confiant
+confiante
+confiants
+participer
+il va participer
+devenir un ennemi
+il va devenir un ennemi
+éducation morale
+éducations morale
+nombre
+vers
+justice
+oreille
+oreilles
+oreilles
+lentilles
+accessoires
+accessoires
+hostilité
+hostilités
+mordre
+il va mordre
+accompagner
+il va accompagner
+compter
+il va compter
+élever
+il va élever
+s’approcher doucement
+il va s'approcher doucement
+s’implanter
+il va s'implanter
+réparer
+il va être réparer
+être détruit
+il va se detruire
+se battre
+il va se battre
+être anxieux
+il va être anxieux
+éducation
+réparation
+morsure
+coutume
+coutume
+ordinaire
+ordinaire
+ordinaires
+bon
+bonne
+bons
+juste
+juste
+justes
+sombre
+sombre
+sombres
+tacheté
+tachetée
+tachetés
+vierge
+vierges
+ennemi
+ennemis
+os
+os
+pardonner
+il va pardonner
+puanteur
+mauvais actes
+mieux que
+santé
+pourrir
+il va pourrir
+puant
+puante
+puants
+santé
+pardon
+de rien
+épouser la veuve de son frère
+il va épouser la veuve de son frère
+attacher les chameaux
+il va attacher les chameaux
+tiges de mil
+une tige de mil
+perles rouges
+intelligent
+intelligente
+intelligents
+stérile
+stérile
+stériles
+scorpion
+scorpions
+intelligence
+intelligence
+dimanche
+testament
+testament
+Nouveau Testament
+promettre
+il va promettre
+famille
+rouge
+rouge
+rouges
+meilleur
+ivoire
+miracle
+miracles
+plaire
+il plait
+poussière
+roue
+roues
+vite
+ignorant
+ignorants
+récompenser
+il recompense
+paresse
+étonnant
+étonnante
+étonnants
+agréable
+agréable
+agréables
+rapide
+rapide
+rapides
+pâte
+pâte de mil
+pâtes de mil
+pâte brune caramélisée
+étonner
+il serait étonné
+s’embellir
+il va s'embellir
+pétrir
+il pétrie
+embaucher
+il embauche
+vieillir
+il va vieillir
+pétrissage
+étranger
+étranger
+étrangere
+étrangers
+récompense
+récompenses
+vieille femme
+vieilles femmes
+paresseux
+paresseuse
+paresseux
+manger
+il va mange
+le plus grand
+sûrement
+sûrement
+nourriture
+fait de manger
+assurer
+il va s'assurer
+donner à manger
+il va donner à manger
+gourmand
+gourmande
+gourmands
+contraire
+au contraire
+plus
+peut-être
+punir
+il va punir
+gris
+grise
+gris
+épouser
+il va épouser
+vert
+verte
+verts
+autre
+autre
+autres
+autres
+fraternel
+fraternelle
+fraternels
+mieux
+consequence
+consequences
+mariage
+fin
+dernier
+l'au-delà
+donner en mariage
+il va donner en mariage
+tarder
+il va tarder
+très cher
+frère
+frères
+sœur
+sœurs
+le
+outil
+outils
+soigner
+il va soigner
+relation ou alliance
+relations
+monde
+mondes
+signe
+signes
+informer
+il informe
+regretter
+il va regretter
+être dérangé
+il est dérangé
+être changé
+il sera changé
+hier soir
+se laver
+il va se laver
+chameaux
+vers
+prendre place
+il prend place
+se comprendre
+il se comprendra
+se fissurer
+il va se fissurer
+se séparer
+il va se séparer
+regarder avec attention
+il va regarder avec attention
+se diviser en branches
+il va se diviser en branches
+trembler
+il va trembler
+se rencontrer
+il va se rencontrer
+se fermer à clé
+il va se fermer à clé
+diviser
+il va se diviser
+se serrer dans les bras
+il va se serrer dans les bras
+se réaliser
+ça va se réaliser
+supporter
+ça va se supporter
+être consolé
+il va être consolé
+faire la guerre contre
+il va faire la guerre contre
+se disputer
+il va se disputer
+bouger
+il va être bouger
+être perplexe
+il va être perplexe
+haut
+haute
+hauts
+mille
+deux milles
+milles
+savant
+savante
+savants
+devenir nouveau
+il va redevenir nouveau
+mentir entre eux
+il va mentir entre eux
+se boucher
+il va se boucher
+se venger
+ça va se venger
+parler
+ça va se dire
+se casser
+ça va se casser
+s’entre-tuer
+ça va s'entre-tuer
+prendre le repas de midi
+il va prendre le repas de midi
+contester
+ça va se contester
+se mélanger
+ça va se melanger
+se transformer en
+ça va se transformer en
+hausser
+il va hausser
+se cacher
+il va se cacher
+se retourner
+il va se retourner
+suspendre
+il va se suspendre
+se rencontrer
+ça se trouvera
+Dieu
+apprendre
+il va apprendre
+instruction
+s’installer
+il va s'installer
+se masser
+il va se masser
+eau  de pluie
+eaux
+faire ses ablutions
+il va faire ses ablutions
+se confier à Dieu
+il va se confier à Dieu
+se reposer sur un coussin
+il va se reposer sur un cousin
+être vu
+il va être vu
+intercéder pour quelqu'un
+il sera intercéder pour quelqu'un
+s’élargir
+ça va s'elargir
+dîner
+s’étonner
+il va s’étonner
+s’assurer de
+il va s’assurer de
+être puni
+il sera puni
+s’attarder
+il va s'attarder
+s’instruire
+il va s'instruire
+conspirer contre
+il va conspirer contre
+regretter
+il regrettera
+se parfumer
+il se parfumera
+être trié
+il sera trié
+nager
+il va nager
+année passée
+public
+publique
+publics
+aveugler
+il va aveuglé
+travail
+travails
+traiter
+il va traiter
+confiance
+croire
+il va croire
+chose confiée
+choses confiés
+ordonner
+il va ordonner
+s’installer
+il va s'installer
+demain
+le lendemain
+flambant
+ogre
+ogre
+ogres
+moustiques
+entre
+entre
+grosse grenouille
+mouche qui pique
+après-demain
+sourds-muets
+sur les genoux et les mains
+miroir
+miroirs
+vipère
+lièvre
+lièvres
+exprès
+poumon
+épilepsie
+de confiance
+de confiance
+de confiances
+amen
+prince
+princesse
+princes
+animé
+animée
+animés
+hier
+rougeole
+dinette
+harpe traditionnelle
+flamant
+lisse
+lisse
+lisses
+mère
+mères
+veille femme
+veilles femmes
+confier
+il va confier
+l'année dernière
+sécurité
+basilic
+violon traditionnel
+violons traditionnels
+balançoire
+pilon
+pilons
+ordre
+ordres
+aveugle
+aveugle
+aveugles
+lot
+je
+causer
+il va causer
+paniquer
+il va être paniquer
+s’échapper
+il va s’échapper
+être humide
+il serait humide
+se construire
+ça va se construire
+chansonnier
+ça va se chansonnier
+s’écorcher
+ça va se chansonnier
+se réjouir
+il va se réjouir
+tomber face contre terre
+il va tomber face contre terre
+être vu
+ça va se voire
+se fendre
+ça va se fendre
+être occupé
+il va être occupé
+être emporté
+il va être emporté
+exhaler une odeur
+ça va se sentir
+être buvable
+ça peut se boire
+se déchirer
+ça va se déchirer
+s’enterrer
+ça va s’enterrer
+rejoindre
+ça va se rejoindre
+entrer
+il peut entrer
+avoir un traumatisme crânien
+il aura un traumatisme crânien
+être compréhensible
+il sera comprehensible
+s’ouvrir
+ça va s'ouvrir
+se séparer
+ça va se séparer
+s’ouvrir
+ça va s'ouvrir
+être balayé
+ça peut être balayer
+être troué
+ça va être troué
+manioc
+nuque
+nuques
+fleurs d'oseille
+boisson rouge sucrée
+faire attention
+il va faire attention
+moins que
+se diviser
+ça va se diviser
+se couper
+ça va se couper
+rester
+il peut rester
+piéton
+piétons
+fourmis noires qui piquent
+fourmi noire qui piquent
+être detruit
+il va être detruit
+garder
+il va être garder
+se résoudre
+ça va se resoudre
+être supporté
+ça va être supporté
+se compter
+ça va se compter
+être jaloux de
+il va être jaloux de
+être battu
+il sera battu
+trembler
+ça va se trembler
+nous
+s’obliger
+il va s'obliger
+se reposer
+il va se reposer
+l’église
+être blessé
+il sera blessé
+être découvert
+il sera découvert
+s’attraper
+ça va s'attraper
+ramper
+ça va se ramper
+se casser
+ça va se casser
+s’écrire
+ça va s’écrire
+avoir très peur
+il va avoir peur
+se retourner
+il va se retourner
+s’obtenir
+ça va s'obtenir
+être touché
+ça va se toucher
+s’enrouler
+ça va s'enrouler
+se remplir
+ça va se remplir
+être oublié
+ça va s'oublier
+gagner
+il va gagner
+se soulever
+ça va se soulever
+s’écraser
+ça va  s’écraser
+couler
+ça va se couler
+se fermer
+ça va se fermer
+être emprisonné
+il va être emprisonné
+pouvoir être écouté
+ça va s'écouté
+donner
+il va donner
+se cogner contre
+il va se cogner contre
+finir
+il va finir
+s’appuyer sur
+il va s’appuyer sur
+compter sur
+il va compter sur
+s’enrouler
+ça va s'enrouler
+femelle
+femelles
+une chèvre
+chèvres
+devenir handicapé
+il va devenir handicapé
+être reconnaissable
+il sera reconnaissable
+être fêté
+sera fêté
+errer
+il va s'errer
+arabes
+arabe
+arabe
+véhicule
+véhicules
+s’opposer à
+il va s'opposer à
+boiteux
+boiteuse
+boiteux
+quatre
+quarante
+quatorze
+trône
+trônes
+terre
+terres
+termites
+termite
+tamariniers
+tamarinier
+tacheté
+tachetée
+tachetés
+jarret
+jarrets
+large
+large
+larges
+sachant
+sachante
+sachants
+nouveau marié
+nouveaux mariés
+veuve
+veuves
+lapin
+lapins
+lâche
+s’enfuir
+il va s’enfuir
+faire connaître
+il va faire connaître
+s’attendre
+il va s'attendre
+s’appuyer sur
+il va s’appuyer sur
+s’aimer l’un et l’autre
+il va s’aimer et l’un l’autre
+retrouver la santé
+il va retrouver la santé
+se reposer
+il se reposera
+fête de mariage
+nouvelle mariée
+les fête de mariage
+nu
+nue
+nus
+cèdre
+bâton
+bâtons
+tendons
+tendon
+tendons
+regret
+sucré
+sucrée
+sucrés
+miel
+presser
+il va se presser
+bousculer
+il va bousculer
+prends courage
+base
+beses
+être pressé
+il se pressera
+passer la nuit
+il va passer la nuit
+assiette
+assiettes
+jaune
+jaune
+jaunes
+désobéissant
+désobéissante
+désobéissants
+capitale
+capitales
+jus
+militaires
+militaires
+militaires
+d’origine
+d’origine
+d’origines
+faire la paix
+il va faire la paix
+se pardonner
+il va pardonner
+presser fortement ou opprimer
+il va ipprimer
+tourteau
+fonder
+il va fonder
+régner en dictateur
+il va régner en dictateur
+s’entraider
+il va s’entraider
+s’interroger mutuellement
+il va s’interroger mutuellement
+se dépêcher
+il se dépêchera
+tirer profit
+tirera profit
+se mettre d’accord
+se mettra d'accord
+plaisanter
+se plaisantera
+être orgueilleux
+il va être orgueilleux
+s'étonner
+il s'étonnera
+se reposer
+se reposera
+être pressé
+sera presser
+utiliser
+utilisera
+coloniser
+colonisera
+noir
+noire
+noirs
+crier
+il va crier
+escalier
+escaliers
+soif
+avoir soif
+avoir soif
+ils ont soif
+plat
+plats
+paresseux
+paresseuse
+lparesseux
+orphelin
+orpheline
+orphelins
+se jouir
+il se rejouira
+prophetiser
+il sera prophetiser
+douze
+natron
+se suivre
+il va se suivre
+être appliqué
+il sera appliqué
+remonter son habit pour grimper
+il va remonter son habit pour grimper
+emprunter
+il va emprunter
+porteurs
+porteur
+parfumer
+il va parfumer
+trébucher
+il va trébucher
+se développer
+il va se développer
+se poignarder mutuellement
+ils vont se poignarder mutuellement
+mourir
+il va mourir
+se confier
+il va se confier
+ou
+aider
+il va aider
+immigré
+immigrée
+immigréz
+faire du bruit
+il va fiare du bruit
+blesser gravement
+il va se blesser gravement
+tordre
+il va se tordre
+avant
+d’abord
+premier
+premiere
+premiers
+nageur
+nageuse
+nageurs
+blesser
+il va se blesser
+bruyant
+bruyante
+bruyants
+fatigue
+verset
+versets
+honteux
+honteuse
+honteux
+vivant
+vivante
+vivants
+désobéissant
+désobéissantz
+désobéissante
+famille proche
+familles proches
+flottant
+flottante
+oui
+fatiguer qqn
+il va fatiguer qqn
+faire honte
+il va faire honte
+nourrir
+il va nourrir
+fêter
+il va fêter
+fatigué
+fatiguée
+fatigués
+insulter
+il va insulter
+désespérer
+il va désespérer
+chaque
+chacun
+ennui
+nuire
+il va nuire
+prostituée
+prostituées
+choisir
+il va choisir
+le fait de choisir
+inviter
+il va inviter
+majesté
+autoriser
+il va autoriser
+glorieux
+chéri
+chérie
+chéris
+pécher
+il va pécher
+noir
+noire
+noirs
+très noir
+invitation
+invitations
+respecter
+il va respecter
+torturer
+il va torturer
+se rappeler
+il va se rappeler
+trier
+il va trier
+trembler
+il va trembler
+inviter
+il va inviter
+exalter
+il va exalter
+appeler à la prière
+il va appeler à la prière
+muezzin
+muezzins
+boiteux
+boiteuse
+boiteux
+tordu
+tordue
+tordus
+le plus grand
+porte
+portes
+être humain
+annoncer la Bonne Nouvelle
+il va annoncer la Bonne Nouvelle
+prédication
+déranger
+il se fait déranger
+commencer
+ça va commencer
+monnaie
+échanger
+il va échanger
+tôt
+bœufs
+bœuf
+éleveur de vaches
+éleveuse de vaches
+éleveurs de vaches
+reste
+reste
+restes
+fleuve lac ou mer
+mers
+effrayer
+il sera effrayer
+bête
+bêtes
+syphilis
+couverture
+couvertures
+pleurer
+il va pleurer
+lieu
+lieux
+fait de pleurer
+faire pleurer
+il va faire pleurer
+se lever tôt
+il va se lever tôt
+détester
+il va détester
+haine
+mulet
+devenir détestable
+il va devenir détestable
+bois d’encens
+uriner
+il va uriner
+attention
+faire attention
+sans
+pays
+pays
+mouiller
+il sera mouiller
+communiquer
+il va communiquer
+prédication
+tabouret
+tabourets
+apparaître
+ça va apparaître
+construire
+il va construire
+plantes sauvages
+plante sauvage
+plusieurs plantes sauvages
+nom d’une tribu
+construction
+marier
+il va se marier
+constructeur
+constructeuse
+constructeurs
+être invendu
+il va être invendu
+dévier
+il va dévier
+être froid
+il va être froid
+grêle
+étinceler
+il va étinceler
+le fait de briller
+s'agenouiller
+il va s'agenouiller
+bénir
+il va bénir
+bénédiction
+bénédictions
+Dieu soit béni
+brancard
+brancards
+dépigmentation
+couper l’herbe ou les cheveux
+il coupera l’herbe ou les cheveux
+froid
+froide
+froids
+le froid
+innocent
+innocente
+innocents
+le froid
+froid
+froide
+froids
+paniquer
+il va paniquer
+désordre
+désordre
+programme
+dehors
+déclarer juste
+il va déclarer juste
+se laver
+il va se laver
+théière
+théières
+éclair
+éclairs
+faire baraquer un chameau
+il va faire baraquer un chameau
+seulement
+oignons
+oignon
+discernement
+voyant
+voyants
+bouillie de riz au lait
+selle du chameau
+selles des chameaux
+de tout
+maigre
+maigre
+maigres
+des mots sans valeur ou  faux
+faire cesser
+il va faire cesser
+encore
+torche électrique
+torches électriques
+amaigrissement
+ventre
+ventres
+blancheur
+clair
+claire
+clairs
+délaissé
+délaissée
+délaissés
+pondre
+il va pondre
+révéler
+il va révéler
+imiter
+il va imiter
+cracher
+il va cracher
+vendre
+il va vendre
+chacal
+chacals
+après
+ensuite
+crottes
+crotte
+ressusciter
+il va ressusciter
+loin
+loin
+loins
+moustiques
+moustique
+éloigner
+il va s'éloigner
+avec
+oeufs
+oeuf
+entre
+mil
+maison
+maisons
+vente
+bonne nouvelle
+bonnes nouvelles
+doucement
+début
+débute
+devenir
+il va devenir
+stylo à bille
+stylos à bille
+aîné
+aînés
+bière de mil
+très
+fille
+filles
+fille
+puits
+puits
+guérir
+il va guérir
+natte
+nattes
+fût
+fûts
+bicyclette
+bicyclettes
+chat
+chatte
+chats
+maigrir
+il va maigrir
+pastèques
+pastèque
+petite maison
+petites maisons
+pousse de plante
+vapeur
+urine
+policier
+singe
+marchandise
+trompette
+trompettes
+bosse frontale
+bosses frontales
+grande hyène tachetée
+peinture
+droit d’aînesse
+pot en calebasse
+pots en calebasse
+chef
+chefs
+construction
+fusil
+fusils
+klaxon
+marmite
+marmites
+fraîcheur
+trompette
+tapis
+tapis
+mare temporaire
+mares temporaire
+crachat
+résurrection
+distance
+faucille
+tromper
+il va tromper
+Tchad
+tchadien
+cigogne marabout
+se cotiser
+il va cotiser
+enfoncer en terre
+il va enfoncer en terre
+vendre
+il va vendre
+petite pluie
+goutter
+il va goutter
+un petit peu
+rouge vif
+ulcère de la peau
+abri
+jeune homme
+jeune femme
+jeunes hommes
+jeunes femmes
+jeunesse
+ressemblance
+ressembler à
+il resselble à
+coincer
+il va coincer
+panier ajouré
+paniers ajourés
+trouver une ressemblance avec
+il trouve une ressemblance avec
+coincer
+il va coincer
+rassasier quelqu’un
+il va rassasier quelqu’un
+similaire comme
+coincé
+coincée
+coincés
+rassasié
+rassasiée
+rassasiés
+arbres
+arbre
+charger
+il va charger
+ensorceler
+il va ensorceler
+sorcier
+sorciere
+sorciers
+fort
+forte
+forts
+voir
+il va voire
+guérir
+il va guérir
+transparent
+transparente
+transparents
+misère
+aurore
+fente
+fentes
+fendre
+il va fendre
+fendiller
+il va fendiller
+renverser
+il va se renverser
+mendier
+il va mendier
+certificat
+certificats
+graisse
+graisse
+charger
+il va charger
+mois
+plusieurs mois
+thé
+témoin oculaire
+témoins oculaires
+désir
+désirs
+encouragement
+encourager
+il va encourager
+se plaindre à
+il va se plaindre à
+remercier
+il va remercier
+doute
+sans doute
+c'est sûr
+piler légèrement
+il  doute
+douter
+il va douter
+plainte
+plaintes
+occupation
+occupations
+prendre
+il va prendre
+se couvrir de nuages
+il va se couvrir de nuages
+entrain de se couvrir de nuages
+soulever
+il va se soulever
+vague
+lèvre
+lèvres
+homosexuel
+homosexuels
+dérision
+dérisions
+moquerie
+soleil
+sentir
+il va sentir
+infecter le doigt
+ça va infecter le doigt
+melons
+melon
+se moquer
+il va se moquer
+moqueur
+moqueuse
+moqueurs
+moustache
+moustaches
+pendre ou étrangler par pendaison
+il va pendre ou étrangler par pendaison
+acheter
+il va acheter
+boisson
+honneur
+filet
+filet
+participer
+il va participer
+participe
+étincelle
+déchirer
+il va être déchirer
+avertir
+il va avertir
+juger
+il va juger
+achat
+bord
+bords
+honorable
+honorable
+méchant
+méchante
+méchants
+rue
+rues
+loi ou procès
+viande séchée
+prostituée
+prostituées
+mal
+maux
+étaler au soleil
+il va étaler au soleil
+faire boire
+il va faire boire
+buveur
+buveuse
+buveurs
+honorer
+il va honorer
+déchirer
+il va déchirer
+avertir
+il va  avertir
+condition
+conditions
+courage
+courages
+dispersion
+se disperser
+il va se disperser
+éparpiller
+il va éparpiller
+se regarder
+il va se regarder
+consulter
+il va se consulter
+prévoir
+il va prévoir
+miroir
+miroirs
+voyant
+voyante
+voyants
+vieux
+vieux
+qui porte qqch
+qui porte qqch
+qui portent qqch
+vache laitière
+vaches laitières
+devenir vieux
+il va devenir vieux
+faire porter
+il va faire porter
+peuple
+peuples
+cheveux longs
+orge
+cheveux blancs
+poudre noire parfumé
+chef
+chefs
+prise
+solaire
+solaire
+panneau solaire
+laid
+laide
+laids
+achat
+diable
+diables
+piment
+chose
+choses
+empan
+empans
+être rassasier
+il va être rassasier
+puissance
+arbrisseau
+arbrisseaux
+joue
+joues
+guérison
+être guéri
+sera guéri
+différent
+complètement différent
+mendicité
+témoigner
+il va témoigner
+témoigne
+nord
+anneau de nez
+anneaux de nez
+boire
+il va boire
+saison froide
+vieillesse
+peu
+pilier
+piliers
+poésie
+poésies
+seau
+seaux
+vue
+épines
+une épine
+chose
+consultation
+consultations
+fenêtre
+fenêtres
+longue natte en paille
+des longues nattes en paille
+merci
+remerciement
+quoi
+quoi
+boisson
+soupe
+soupes
+sac
+sacs
+affaires
+un peu
+celui-ci
+celle-ci
+ceux-ci
+celles-ci
+égorger
+il va égorger
+tanner
+il va tanner
+grenier
+greniers
+plaie sur le dos d'une bête
+des plaies sur le dos d'une bête
+serpent
+serpents
+serpent
+animal pour le sacrifice
+petit sac en cuir
+petite sac en cuir
+enterrer
+il va enterrer
+tresser
+il va tresser
+payer
+il va payer
+défendre
+il va defendre
+chauffer un peu
+il va chauffer un peu
+verser
+ça va se verser
+fait de verser
+un peu chaud
+un peu chaude
+un peu chauds
+enterrement
+enterrement
+registre
+goûter
+il va goûter
+tamponner
+il va tamponner
+gronder comme le tonnerre
+il va gronder comme le tonnerre
+tonnerre
+sur la route
+silhouette féminine
+coup
+frapper
+il va frapper
+forgeron
+fait de frapper
+farine
+minute
+minutes
+matinée
+matinées
+passer la matinée
+il va passer la matinée
+or métal
+or
+c’est maintenant que
+ânon
+ânonne
+ânons
+dos
+dos
+interdire
+il interdit
+sacrifier une vie
+il va sacrifier une vie
+faire rire
+ça fait rire
+sacrifice
+sacrifices
+le voici
+la voici
+les voici
+celui-là
+celle-là
+ceux-là
+mâle
+mâles
+docteur
+docteurs
+médecin
+médecins
+le voici là-bas
+la voici là-bas
+entrer
+il va entrer
+dedans
+entrant
+entrante
+entrants
+entrée
+faire entrer
+il va faire entrer
+fumer
+il va fumer
+entrée
+ténèbres
+boiter
+il va boiter
+preuve
+preuves
+méchanceté ou tort
+méchancetés ou torts
+descendre
+il va descendre
+singe
+être soumis
+il va être soumis
+mettre dans l'obscurité
+il sera mis dans l'obscurité
+puisette
+puisettes
+doux
+douce
+doux
+durer
+ça va durer
+garantie
+destruction
+ranger
+il va ranger
+garant
+garante
+garants
+conscience
+consciences
+sang
+sangs
+conserver
+il va conserver
+jusqu’à
+détruire
+il va détruire
+larme
+larmes
+queue
+queues
+se pencher
+il va se pencher
+incliner vers le bas
+il va s'ilcliner vers le bas
+maison carrée ou  prison
+maisons carrées ou prisons
+pays
+plusieurs pays
+tourner autour
+il va tourner autour
+place des hommes
+frapper
+il va frapper
+cacher
+il va cacher quelqu'un ou quelque chose
+bouclier
+boucliers
+gloire
+gloires
+étudier
+il étudie
+temps de la moisson
+tache
+des coups
+coup
+coups
+rouler
+il va se rouler
+former une boule
+il va former une boule
+battage
+dialectal
+dialectale
+leçon
+leçons
+cuisse
+cuisses
+petites fourmis rouges
+petite fourmi rouge
+verser
+il verse
+nuire
+il va nuire
+vanner
+il va vanner
+s’entraîner
+il va s’entraîner
+joueur de tam-tam
+joueuse de tam-tam
+joueurs de tam-tam
+élever à une dignité
+il va élever à une dignité
+vélo
+vélos
+faire venir le lait
+il va faire venir le lait
+tresser le bord
+il va tresser le bord
+co-épouse
+co-épouses
+en gestation
+en gestations
+en gestation
+glorification
+enfiler
+il va enfiler
+constitution
+médicament
+soigner
+il va soigner
+se battre
+il va se battre
+bagarreur
+bagarreuse
+bagarreurs
+moutons
+nation
+nations
+éclairer
+ça va s'éclairer
+être rempli de vers
+il va être rempli de vers
+vouloir
+il veut
+démarrer
+il va demarrer
+démarrage
+opprimer
+il sera opprimer
+verser
+il va verser
+éternel
+éternelle
+éternels
+désireux
+désireuse
+désireux
+cercle
+cercles
+toujours
+brebis
+brebis
+accueillir
+il va accueillir
+rétrécir
+il va rétrécir
+emprunter
+il va emprunter
+étroit
+étroite
+étroits
+prier
+il va prier
+prière
+prières
+faible
+faible
+faibles
+demander à Dieu
+il va demander à Dieu
+armée
+armées
+sein
+seins
+une teinture noire naturelle
+invité
+invitée
+invités
+dette
+dettes
+chemin
+chemins
+lumière
+gâteaux ronds
+gâteau ronde
+contre
+défense
+grenouilles
+grenouille
+grenouilles
+angoisse
+barbe
+barbes
+ânon très jeune
+ânone très jeune
+des ânons très jeunes
+rire
+il va rire
+huile
+huiles
+coq
+coqs
+peau tannée
+peaux tannées
+se porter garant
+il va se porter garant
+porteur de garant
+grand bracelet de cuivre
+des grands bracelets de cuivre
+crime
+crimes
+commetre un meurtre
+religion
+religions
+petit verre
+petits verres
+du domaine religieux
+du domaine religieux
+du domaine religieux
+bordure
+herbe épineuse
+savoir
+il va le savoir
+molaire
+molaires
+devenir faible
+il va devenir faible
+poêlon
+poêlons
+troupeaux
+troupeau
+troupeaux
+semaine
+grande cuvette
+des grandes cuvettes
+briques en terre
+une brique en terre
+ours
+ours
+mouches
+une mouche
+ver
+ver
+lion
+lions
+coquillages à parfum
+une coquillage à parfum
+petits
+gaule
+gaules
+début de l’après-midi
+boutique
+boutiques
+bouton d’une fleur
+boutons d’une fleur
+griot
+griots
+griots
+encens
+encens
+petit mil
+petit mil
+pilier
+piliers
+ombre
+ombres
+sans
+souche
+souches
+nid de la poule
+nids de la poule
+ordures
+ordures
+vie terrestre
+bras
+bras
+boulette
+boulettes
+mur
+murs
+mal fait délibérément
+canari
+canaris
+combat
+combats
+prière
+honte
+hontes
+boule
+œil
+yeux
+point d’eau
+points d'eaux
+échouer
+il va échouer
+vantant
+fanfaronner
+il va fanfaronner
+faire échouer
+il va faire échouer
+vantard
+vantarde
+vantards
+tribunal
+tribunals
+être utile
+ça va être utile
+payer une rançon
+il va payer une rançon
+cour
+cours
+décharger
+il va décharger
+rester ou accueillir
+il va rester
+vide
+vide
+vides
+scandale
+scandales
+rançon
+portion restante
+grâce à
+S’il te plaît
+perdre provisoirement
+il va perdre provisoirement
+s’appauvrir
+il va s’appauvrir
+éclore
+il va éclore
+concombres locaux
+concombre local
+pauvre
+pauvre
+pauvres
+pauvreté
+courageux
+courageuse
+courageux
+courage
+charbon de bois
+faire comprendre
+il va faire comprendre
+intelligent
+intelligente
+intelligents
+piétiner
+il va piétiner
+piétinement
+marcher dessus
+il marchera dessus
+tôt le matin
+aube
+soudainement
+marabout
+fruit
+fruits
+ouvrir
+il va ouvrir
+penser
+il va penser
+marabout
+marabouts
+épingle
+épingles
+petits beignets
+technique
+techniques
+distinguer
+il va distinguer
+lampe
+lampe
+bouillir
+ça va bouillir
+chicoter
+il chicote
+étaler
+il va étaler
+sevrer
+il va sevrer
+se séparer de
+il va se séparer de
+se séparer de
+il va se séparer de
+espace
+espaces
+joie
+soit heureux
+délivrance
+français
+française
+français
+jument
+deux juments
+pagne
+pagnes
+natte en tiges de mil
+nattes en tiges de mil
+joie
+heureux
+heureuse
+heureux
+coups de chicotte
+obligation
+obligations
+loi religieuse
+lois religieuses
+différence
+campement de nomades
+campements de nomades
+sauveur
+mil grillé
+brave
+brave
+braves
+frein
+freins
+gilet
+gilets
+bondir
+il va bondir
+étendre
+il va étendre
+trier
+il va trier
+séparer
+il va séparer
+rendre heureux
+il rend heureux
+regarder
+il va regarder
+défaire
+il va défaire
+opale
+cuir
+cuirs
+hache
+haches
+péter
+il va péter
+dépravation
+séparer
+il va séparer
+méchanceté
+méchancetés
+paresseux
+paresseuse
+paresseux
+méchant
+méchante
+méchants
+méchant
+méchante
+méchants
+expliquer
+il va expliquer
+vaccination
+section
+sections
+partir
+il va partir
+entrain de partir
+ouvrir
+il va ouvrir
+prendre le petit déjeuner
+il va prendre le petit déjeuner
+retourner
+il va se retourner
+ouvert
+ouverte
+ouverts
+croc
+crocs
+chercher
+il va chercher
+faire ouvrir
+il va ouvrir
+recherche
+petit déjeuner
+faire bouillir
+il va faire bouillir
+profit
+bouillant
+bouillante
+bouillants
+passant
+passante
+passants
+secourir
+il va secourir
+aller à la recherche
+il va aller à la recherche
+secours
+dans
+à cause de
+vidé
+vidée
+vidés
+être pauvre
+il va être pauvre
+comprendre
+il va comprendre
+pensée
+pensées
+idée
+éléphant
+éléphants
+tel
+être content
+il va être content
+branche
+branches
+révolte
+révoltes
+action
+actions
+dessus sur
+celui d’en haut
+celle d’en haut
+ébullition
+argent métal
+arachides
+arachide
+pommade
+mortier
+mortiers
+verre à thé
+verres à thé
+natte
+nattes
+séparation
+occasion
+four
+fours
+standard
+bande de coton tissé
+en face de
+rencontrer
+il va rencontrer
+allumer
+il va allumer
+retourner
+il va retourner
+col
+cols
+retour
+adversaire
+adversaire
+adversaires
+tribu
+tribus
+avant
+balayer
+il va balayer
+balayer
+il va balayer
+amener par la main
+il va amener par la main
+bol en bois
+bols en bois
+comparer
+il va comparer
+trou
+troux
+à la place de
+percer
+il va percer
+percer
+il va percer
+vomir
+il va vomir
+présenter
+il va présenter
+passer devant
+il va passer devant
+donner la force
+il va donner la force
+présentation
+bouche
+bouches
+juge
+juges
+usé
+usée
+usés
+fort
+forte
+forts
+même mesure que
+à reculons
+fermer à clé
+il va fermer à clé
+fermer à clé
+il va fermer à clé
+tousser
+il va tousser
+café
+dire
+il va dire
+retourner
+il va retourner
+stylo
+arracher
+il va arracher
+margouillat
+coeur
+coeurs
+moule
+moules
+manquant de
+manquants de
+soulever
+il va soulever
+galoper
+il va galoper
+lune
+lunes
+blé
+chemise
+chemises
+se lever
+il va se lever
+poux
+pou
+bambous
+chasser
+il va chasser
+gémir
+il va gémir
+épi
+épis
+s’accroupir
+il va s’accroupir
+chasse
+gémissements
+chasseur
+chasseuse
+chasseurs
+loi
+lois
+lire
+il va lire
+violet
+violette
+violets
+sans sauce
+rugissement
+proche
+proche
+proches
+parent proche
+parents proche
+corne
+cornes
+nostalgique
+nostalgique
+nostalgiques
+s'approcher
+il va s'approcher
+pincée
+pincées
+roseaux
+difficile
+difficile
+difficiles
+étage
+étages
+partager
+il va partager
+diminuer
+ça se diminuera
+couper avec force
+il va couper avec force
+couper ou diffamer
+il va couper ou diffamer
+rompre une relation
+il veut rompre une relation
+moisson
+calomnie
+fait de couper
+hacher
+il va hacher
+médisant
+médisante
+médisants
+mesurer
+il va mesurer
+fort
+forte
+forts
+fortifier
+il fortifie
+commère
+commère
+commère
+réveiller
+il va réveiller
+réveil
+croissant
+croissante
+croissants
+midi
+cuisse
+cuisses
+passer la journée
+il va passer la journée
+bouteilles
+bouteille
+bouteilles
+être là
+il serait là
+s’asseoir
+il va s’asseoir
+au pied de
+aux pieds de
+étant là
+étant là
+étant là
+étant là
+faire asseoir
+il va faire asseoir
+paille
+une paille
+entrave
+entraves
+auparavant
+sens direction
+sens directions
+cosses
+une cosse
+guide
+devant
+qui est devant
+qui est devant
+qui sont devant
+pouvoir
+il peut
+manque
+petites tourterelles
+petite tourterelle
+petites tourterelles
+tique
+tiques
+petite corde pour traire une vache
+petites cordes pour traire les vaches
+leçon
+leçons
+outre en peau de chèvre
+outres en peau de chèvre
+cannelle
+gros
+grosse
+gros
+écorces
+désirer la présence de qqn
+il va désirer la présence de qqn
+court
+courte
+courts
+part
+parts
+milieu
+milieux
+histoire
+histoires
+guitare
+guitare
+morceau de tissu
+morceaux de tissu
+résurrection
+bar traditionnel
+des bars traditionnels
+boulette de mil
+porter un enfant sur le dos
+il va porter un enfant sur le dos
+résidu
+marabout
+marabouts
+terrain sablonneux
+terrains sablonneux
+gramme
+force
+avant
+avant que
+force
+panier
+paniers
+cadenas
+cadenass
+toux
+tissu
+tissus
+boubou
+boubous
+garde du sultan
+gardes du sultan
+généalogie
+généalogies
+argent
+goudron
+coton
+cotons
+calomnie
+force
+forces
+force
+et
+ha !
+graines
+graine
+graines
+embrasser
+il va embrasser
+corde
+cordes
+entrailles (lieu des sentiments)
+insecte
+insectes
+donner
+il va donner
+conseiller qqn
+il va conseiller qqn
+but
+buts
+prendre dans les bras
+il va prendre dans les bras
+présence
+frontière
+frontières
+calmer
+il va calmer
+établir
+il va établir
+forgerons
+forgeron
+forgerons
+faire participer
+il va faire participer
+calme
+calme
+calmes
+fer
+fer
+présent
+présente
+présents
+parole
+accident
+accidents
+cadeau
+cadeaux
+protéger
+il va protéger
+garder
+il va garder
+creuser
+il va creuser
+garder
+il va garder
+aller partout
+il va aller partout
+errant
+errante
+errants
+creuser
+il va creuser
+pic
+pic
+protecteur
+protecteuse
+protecteurs
+médaillon
+médaillons
+stockage
+protecteur
+protecteuse
+protecteurs
+festivité
+festivités
+qui va nu-pieds
+qui va nu-pieds
+qui vont nu-pieds
+être irrespectueux
+n'est pas respecter quelqu’un ou quelque chose
+droit
+droits
+accomplir
+il va accomplir
+méprisant
+méprisante
+méprisants
+vérité
+réel ou véritable
+réels
+réels
+éventer
+il va éventer
+être en période de rut ou animaux mâles
+il va être en période de rut ou animaux mâles
+attaquer par surprise
+il va attaquer par surprise
+pierre
+pierres
+arrêter une bagarre
+il va arrêter une bagarre
+besoin
+besoins
+pèlerin
+pèlerine
+pèlerins
+parler
+il va parler
+accomplir le pèlerinage à La Mecque
+il va accomplir le pèlerinage à La Mecque
+ventiler
+il va ventiler
+ventiler
+il va ventiler
+éventail
+éventails
+bavard
+bavarde
+bavards
+savonniers
+savonnier
+savonniers
+attrape
+attrape
+attrapez
+gouverner
+il va gouverner
+punir
+il va punir
+sage
+sage
+sages
+gouverneur
+gouverneuse
+gouverneurs
+s’asseoir en tailleur
+il va s’asseoir en tailleur
+gouvernement
+gouvernements
+marque de question
+caractère
+caractères
+être en chaleur animal ou femelle
+il va être en chaleur animal ou femelle
+très grande joie
+très grande joie
+situation
+situations
+traire
+il va traire
+jurer
+il va jurer
+coussin de paille sous une selle
+coussins de paille sous une selle
+anéantir
+il va anéantir
+péril
+solution
+permis
+permise
+permis
+appartien à
+lobe de l’oreille
+lobes de l’oreille
+bonbons
+bonbon
+griffer
+il va griffer
+gorge
+gorges
+serment
+qui conduit à la mort
+patient dans les difficultés
+patiente dans les difficultés
+actuellement
+solution
+détacher
+il va détacher
+faire prêter serment
+il va prêter serment
+détruire
+il va détruire
+phacochère
+phacochères
+doux
+douce
+doux
+beau-frère
+beaux-frères
+protéger
+il va protéger
+protéger
+il va protéger
+louer Dieu
+il va louer Dieu
+il va louer Dieu
+acidité
+agneau
+agneau
+agneaux
+pigeons
+pigeon
+rougeur
+belle-soeur
+belles-soeurs
+ballon
+ballons
+pastèque sauvage
+louange
+Dieu soit loué
+chaud
+chaude
+chauds
+souci
+soucis
+faire du souci
+il va faire du souci
+chauffer
+il va chauffer
+chaleur
+acide
+acide
+acides
+maltraiter
+il va maltraiter
+de
+de
+de
+aimer
+il va aimer
+nervure de la feuille de palmier
+éprouver de la tendresse pour
+il va éprouver de la tendresse pour
+faire pitié
+il va faire pitié
+mettre du henné
+il va mettre du henné
+consoler
+il va consoler
+tendre
+tendre
+tendres
+combattre
+il va combattre
+brûler
+il va brûler
+brûlure
+gronder
+il va gronder
+se disputer
+il va se disputer
+bruit
+bruits
+interdire
+il va interdire
+interdit
+interdite
+interdits
+malfaisant
+malfaisante
+malfaisants
+chaleur
+attendre
+il va attendre
+garde
+fait de garder
+cultiver la terre
+il va cultiver la terre
+il va cultiver la terre
+guerre
+lance
+lances
+guerre
+guerres
+brûlé
+brûlée
+brûlés
+lettre de l'alphabet
+lettres de l'alphabet
+feu de brousse
+feux de brousse
+soie
+avare
+avare
+avares
+gardien
+gardiens
+bruyant
+bruyante
+bruyants
+brûlant
+brûlante
+brûlants
+défèquer
+il va défèquer
+inciter
+il va inciter
+faire brûler
+ça va se brûler
+bouger
+il va bouger
+interdire
+il va interdire
+libérer
+il va libérer
+gardien
+gardiens
+faire cultiver
+il va faire cultiver
+charrue
+charrues
+cultivateur
+cultivateuse
+cultivateurs
+soleil
+brûlure
+compter
+il va compter
+selon
+faire le bilan
+il va faire le bilan
+envier
+il va envier
+avoir lieu
+il va avoir lieu
+faire du bien
+il va faire du bien
+bienfait
+bienfait
+assieger une ville
+il va assieger une ville
+gravier
+prêt
+prête
+prêts
+épines fines
+épine fine
+sentir
+il va sentir
+détester
+il va détester
+préparer
+il va préparer
+maintenant
+jaloux
+jalouse
+jaloux
+bois
+bois
+secouer
+il va secouer
+jusqu’à
+air
+contourner
+il va contourner
+essayer
+il va essayer
+prés de
+mauvais
+mauvaise
+mauvais
+crevasse
+crevasses
+abime
+qui  besoin de
+qui  besoin de
+qui ont besoin de
+contourner
+il va contourner
+déménager
+il va déménager
+pêcher
+il va pêcher
+pêcheur
+pêcheuse
+pêcheurs
+hé
+exclamation de surprise ou de doute
+vie
+en chaleur
+en chaleurs
+squelette
+squelettes
+animaux
+animau
+animaux
+vivant
+vivante
+vivants
+faire vivre
+il va faire vivre
+facile
+facile
+faciles
+battre
+il va battre
+une défaite
+des défaites
+triste
+triste
+tristes
+secouer
+il va secouer
+attrister
+il va attrister
+donner un avertissement
+il va donner un avertissement
+secouer
+il va secouer
+courage
+elle
+rire
+furoncle
+furoncles
+conseil
+être présent
+il va être présent
+histoire
+devinette
+conte
+pélerinage
+histoire vaine
+émigration
+sagesse
+sagesses
+être anéanti
+il va être anéanti
+rêver
+il va rêver
+rêve
+rêves
+village
+villages
+supporter
+il va supporter
+être enceinte
+fardeau
+là-bas
+ici
+elles
+henné
+pitié
+fait de cultiver
+être brûlé
+ça va être brûlé
+compte
+comptes
+voix
+voix
+avoir besoin de
+il va avoir besoin de
+alors
+vivre
+il va vivre
+ceinture
+ceintures
+partie ou section du Coran
+parties ou sections du Coran
+tristesse
+tristesses
+être triste
+il va être triste
+concession
+concessions
+anniversaire
+abreuvoir
+abreuvoirs
+il
+amour
+tranquilité
+poitrine
+présence
+manque de respect
+amende gouvernementou art de gouvernerou condamnation
+âne
+ânesse
+ânes
+mule
+ils
+querelle
+excrément
+chagrin
+libre
+libre
+libres
+jalousie
+poissons
+poisson
+adoration
+adorations
+chameaux
+fils de
+aiguille
+aiguilles
+aiguière
+aiguières
+geste
+gestes
+prière de nuit
+mode de vie
+vingt
+main
+mains
+main
+fête
+fêté
+administration
+administrations
+point d’eau
+points d’eau
+vierge
+vierges
+cause de dégoût
+african
+souffrance
+souffrances
+onze
+négligence
+bienfaisance
+bienfaisant
+bienfaisante
+bienfaisants
+avoir besoin
+il va avoir besoin
+se soucier de
+il va se soucier de
+confesser
+il va confesser
+respecter
+il respecte
+respect
+respects
+loyer
+loyers
+veau
+veau
+veaux
+réunion
+réunions
+social
+sociale
+socials
+conseiller du roi généreux
+conseillers du roi généreux
+respect
+punition
+punitions
+choisir
+il va choisir
+choix
+jusqu’à
+un dieu
+dieux
+traitement
+traitements
+savoir
+savoirs
+sauf
+imam
+imams
+foi
+oncle paternel
+tante paternel
+oncles paternel
+raisin
+avoir
+pluie fine ininterrompue
+se diriger vers
+il va se diriger vers
+Évangile
+être humain
+humains
+deux personnes
+toi
+production
+toi
+vous
+chèvres
+chèvre
+nudité
+connaissance
+savoir
+il va savoir
+racine
+racines
+noce
+noce
+bâtonnet
+bâtonnets
+désobéir
+il va désobéir
+gauche
+côté gauche
+accord
+accords
+accords
+accords
+plaisanterie
+orgueil
+colonisation
+désobéissance
+avoir soif
+il va avoir soif
+parfum
+parfums
+souhaiter
+il souhaite
+se rebeller
+il va se rebeller
+deux
+mourir
+il va mourir
+regretter
+il va regretter
+grand-mère
+enfants
+bâtonnet
+bâtonnets
+être épuisé
+il sera épuisé
+tourment
+noir
+noire
+permission
+respect
+confesser
+il va confesser
+venir
+il va venir
+il est entrain de venir
+apporter
+il va apporter
+il est entrain d'apporter
+tirer
+il va tirer
+montagne
+montagnes
+forcer
+il va forcer
+tirer
+il va tirer
+avare
+avare
+avares
+front
+fronts
+variole
+renouveler
+il va renouveler
+remise en bon état
+neuf
+neuve
+neufs
+calendrier
+calendriers
+reculer subitement
+il va reculer subitement
+se sécher
+il va se sécher
+rude
+rude
+combattre
+il va combattre
+ignorance
+ignorance
+enfer
+être prêt
+il va être prêt
+ignorant
+ignorante
+ignorants
+prêt
+prête
+prêts
+enragé
+enragée
+enragés
+provoquer à la bagarre
+il va provoquer à la bagarre
+fouetter
+il va fouetter
+majesté
+causer ou s’asseoir
+il va s’asseoir
+s’asseoir
+il est assis
+boubou
+boubous
+gâter
+il va etre gâté
+améthyste
+devenir solide
+il va devenir solide
+chameau
+chameaux
+beauté
+groupe
+à côté de
+hameçon
+hameçons
+beau
+belle
+beaux
+tout le monde
+mosquée
+mosquées
+mettre au repos
+il met au repos
+décorer
+il va décorer
+braises
+braise
+buffles
+buffle
+aile
+ailes
+cadavre
+cadavres
+habit en lambeau
+habits en lambeaux
+chiffon
+côté
+côtés
+faute
+fautes
+sarcler
+il va sarcler
+sarclage
+paradis
+paradis
+recruter
+il va recruter
+sud
+enchaîner
+il va enchaîner
+voisin
+voisine
+voisins
+voisines
+torturer
+il va torturer
+courir
+il va courir
+criquets
+criquet
+blesser
+il va blesser
+cloche
+cloches
+course
+courant
+courante
+courants
+blessure
+blessures
+crime
+crimes
+fuite
+jarre
+jarres
+tenter de
+il va tenter de
+coureur
+coureuse
+coureurs
+sarcloir
+sarcloirs
+défiler
+il va défiler
+espion
+espione
+espions
+lettre
+lettres
+sous-vêtement
+sous-vêtements
+donner en mariage
+il va donner en mariage
+de ce côté
+çà et là
+dictateur
+dictateuse
+dictateurs
+venue
+rétribution
+récompenser
+il va récompenser
+île
+bouchers
+boucher
+bouchers
+fesse
+fesse
+tenir compte de
+il va tenir compte de
+prix ou récompense
+poche
+poches
+transport
+armée
+armées
+fromage
+poules
+poule
+lèpre
+grand-père
+grande-mère
+grands-parents
+vautour
+guitare traditionnelle
+effort
+direction
+directions
+génération
+générations
+graisse qui entoure l’estomac
+corps
+corps
+ficus
+ficus
+aile
+ailes
+pièce d’or
+pièces d’or
+jardin
+jardins
+chaîne
+chaînes
+blessure
+blessures
+corps humain
+corps humains
+mariage
+mariages
+affamé
+affamée
+affamés
+arbres
+époux
+épouse
+époux
+générosité
+effort
+gorgée
+gorgées
+totalité ou phrase
+phrases
+repos
+taxe douanière
+taxes douanières
+berge
+tas d’épis de mil
+tas d’épis de mil
+cheval
+chevals
+dedans
+porte-monnaie
+porte-monnaies
+partie
+parties
+faim
+se jeter sur
+il va se jeter sur
+extraire la pâte de la marmite
+il va extraire la pâte de la marmite
+faire grandir
+il va faire grandir
+bélier
+béliers
+grand
+grande
+grands
+responsable
+responsables
+inspecter
+il va inspecter
+réprimander
+il va réprimander
+glaner
+il va glaner
+gronder
+il va gronder
+faire des fronces ou des petits plis
+il va faire des petits plis
+méchant
+méchante
+méchants
+brousse
+houe
+houes
+que
+contredire
+il va contredire
+menteur
+menteuse
+menteurs
+boucher
+ça va se boucher
+turban
+turbans
+en avoir assez de
+ça suffit
+recouvrir
+ça va se recouvrir
+recompenser
+il va recompenser
+linceul
+être impie
+il va être impie
+payer
+il va payer
+ourler
+il va ourler
+envelopper dans un linceul
+il va envelopper dans un linceul
+expiation
+ourlet
+ourlets
+paume de la main
+paumes de la main
+payement
+païen
+païenne
+païens
+électricité
+tendre un piège
+il va tendre un piège
+il  tendu un piège
+se coiffer d’un turban
+il va se coiffer d’un turban
+le fait de
+un piège
+caqueter
+il va caqueter
+mesurer
+il va mesurer
+parole
+paroles
+limite
+limites
+condoléances
+chien
+chienne
+chiens
+responsable
+responsables
+être émoussé
+ça va être émoussé
+charger de qqch
+il va charger de qqch
+parler
+il va parler
+petite marmite en terre
+petites marmites en terre
+combien
+perfection
+aussi
+complet
+complete
+être entier
+finir
+il va finir
+si
+devenir
+ça va devenir
+enlever le son du grain
+il va enlever le son du grain
+son
+église
+églises
+porte-braise
+porte-braises
+complètement vide
+tenir
+il va tenir
+il est venu
+défault
+aversion
+générosité
+rosée
+se cacher
+il va se cacher
+cuvette en terre
+cuvettes en terre
+plisser
+il va plisser
+généreux
+guettant
+guettante
+guettants
+oseille
+préparer un champ
+il va préparer un champ
+berge
+berges
+caverne
+cavernes
+jujube
+tout blanc
+traîner par terre
+il va traîner par terre
+rugir
+il va rugir
+attraper plusieurs fois
+il va attraper plusieurs fois
+ceinture en toile
+ceintures en toile
+respecter
+il va respecter
+répéter
+il va répéter
+charrette
+contenant en fibres végétales
+contenants en fibres végétales
+calebasse
+calebasses
+réaliser un bénéfice
+il va réaliser un bénéfice
+paresse
+casser
+il va se casser
+bénéfice
+pillage
+reculer
+il va reculer
+fatigué
+fatiguée
+fatigués
+se pousser
+il va pousser
+casser en menus morceaux
+il va casser en menus morceaux
+écrire
+il va écrire
+tuer
+il va tuer
+multiplicité
+écrivain
+écrivaine
+écrivains
+meurtre
+meurtrier
+meurtriere
+meurtriers
+meurtre
+beaucoup
+beaucoup
+beaucoups
+beaucoups
+massacrer
+il va massacrer
+meurtrier
+meurtriers
+lin
+multiplier ou devenir nombreux
+ça va se multiplier
+caoutchouc
+caoutchoucs
+former
+il va former
+mesure
+cahier
+cahiers
+récipient ou mesureur
+récipiente ou mesureuse
+récipients ou mesureurs
+talon
+talons
+gâteaux
+gâteau
+comme cela
+foie
+foies
+grandir
+il va grandir
+arrogance
+épi secondaire
+mentir
+il va mentir
+mensonge
+comment
+mot
+mots
+kilogramme ou kilomètre
+kilogramme
+kilomètre
+rein
+reins
+manche
+manches
+comprimé
+comprimée
+estomac
+estomacs
+fonio sauvage
+haïr
+il va haïr
+crêpes
+crêpe
+réaliser un bénéfice
+être fatigué
+il va être fatigué
+galettes de mil
+habit
+habits
+livre
+livres
+écriture
+épaule
+deux épaules
+épaules
+gommiers
+gommier
+se multiplier
+mesure
+cuillère
+cuillères
+petite coupe
+petites coupes
+gobelet
+gobelets
+bière de mil
+lance à barbillons
+lances à barbillons
+se vanter
+il va se vanter
+tas
+tas
+coin
+coins
+appeler au secours
+il va appeler au secours
+bol servant de mesure
+bols servant de mesure
+appel au secours
+beignet de haricot
+vieillesse
+autorité
+blasphème
+aussi
+tout
+tout
+chaque jour
+tout le temps
+partout
+pincette
+pincettes
+chaque
+chacun
+fait de se pavaner
+fin
+idoles
+cahier
+cahiers
+chaise ou envoyé du sultan
+chaise
+très noir
+très noir
+coriandre
+abondance
+case ronde
+cases rondes
+beau
+belle
+beaux
+forêt
+forêts
+nouvelle
+nouvelles
+devenir gris
+ça va devenir gris
+se fâcher
+il va se fâcher
+informer
+il va informer
+temps de réclusion et de deuil
+temps de réclusion et de deuil
+colère
+expert
+experte
+experts
+vil
+vile
+viles
+tombe
+tombes
+planches
+planche
+tromperie
+tromperie
+tromper
+il va tromper
+menuisier
+menuisiere
+menuisiers
+trompeur
+trompeuse
+trompeurs
+bouche
+bouches
+clan
+clans
+déjeuner
+colère
+travailler
+il va travailler
+légume
+légumes
+furieux
+furieuse
+furieux
+déjeuner
+il va déjeuner
+mélanger
+il va mélanger
+faire travailler
+il va faire travailler
+travailleur
+travailleuse
+travailleurs
+travailleuses
+prédestiner
+traître
+traîtresse
+traîtres
+sanctifier
+il va sanctifier
+perles
+perle
+là-bas
+serviteur
+serviteur
+serviteurs
+avoir peur
+il va avoir peur
+pardonner
+il va pardonner
+alléger
+il va alléger
+tromper l’attention
+il va tromper l’attention
+léger
+légere
+légers
+surprise
+surpris
+surprise
+surpris
+miséricordieux
+faire honte
+il va faire honte
+oncle maternel
+oncles maternels
+brousse
+gagner
+il va gagner
+dépasser la capacité de
+il va dépasser la capacité de
+grossesse
+contredire
+il va contredire
+prépuce
+prépuces
+vêtement
+vêtements
+créer
+il va créer
+fini
+erreur ou faute
+des erreurs ou des fautes
+contester
+il va contester
+enceinte
+enceintes
+mélanger
+ça va se mélanger
+mensonge
+mensonges
+mélange
+cher
+chere
+chers
+vainqueur
+vainqueuse
+vainqueurs
+créateur
+création
+le fait de créer
+ami intime
+vinaigre
+laisser
+il va laisser
+mil
+sauver
+il va sauver
+libération
+accuser qqn d’avoir tort
+il va accuser qqn d’avoir tort
+fait de laisser
+fautif
+fautive
+fautifs
+brouillard
+outil pour prendre les braises
+outils pour prendre les braises
+mettre de la levure
+boisson alcoolisée
+toucher avec la main
+il va toucher avec la main
+levure
+cinquième
+cinquième
+quinze
+ramasser
+il va ramasser
+devenir nuageux
+il va devenir nuageux
+vin
+cinq
+cinquante
+cinquantaine
+trahir
+il va trahir
+enrichir
+il va s'enrichir
+étrangler
+il va étrangler
+moutons ou chèvres
+mouton ou chèvre
+esquiver
+il va esquiver
+fossé
+fossés
+riche
+riche
+riches
+butin
+butins
+chanter
+il va chanter
+détruire
+il va détruire
+destruction
+puiser
+il va puiser
+sortir
+il va sortir
+décret
+décrets
+tamiser
+il va tamiser
+détruit
+détruite
+détruits
+venant de l'ouest
+venant de l'ouest
+venants de l'ouest
+moutarde
+sénile
+sénile
+séniles
+ouest
+étranger
+étrangere
+étrangers
+saison des pluies
+saisons des pluies
+profond
+profonde
+profonds
+extérieur
+extérieure
+extérieurs
+gargariser
+il va gargariser
+grue coronnée
+grues coronnées
+détruire
+il va détruire
+gobelet
+gobelets
+prescrire
+il va prescrire
+effrayer
+il va effrayer
+bélier
+béliers
+village
+villages
+castrer
+perte
+pertes
+ennemi
+ennemie
+ennemis
+réservé à
+réservée à
+réservés à
+concerner
+ça va concerner
+accepter
+il va accepter
+laver
+il va laver
+endommager
+il va endommager
+perte
+pertes
+consacrer
+il va consacrer
+surtout
+consécration
+erreur
+erreurs
+arracher
+il va arracher
+voyager
+il va voyager
+dangereux
+dangereuse
+dangereux
+s'enfoncer
+il va s'enfoncer
+fautif
+fautive
+fautifs
+kidnappeur
+kidnappeuse
+lkidnappeurs
+bague
+bagues
+dangereux
+dangereuse
+dangereux
+erreur
+ligne
+lignes
+poser
+il va poser
+couvrir
+il va couvrir
+plonger ou baptiser
+il va plonger
+tirer au sort
+il va tirer au sort
+devin
+devine
+devins
+couverture
+couvertures
+marche
+marches
+faire peur
+ça fait peur
+peureux
+peureuse
+peureux
+chef militaire
+chefs militaires
+qui  peur
+qui  peur
+qui ont peur
+traître
+traîtresse
+traîtres
+changer
+il va changer
+coudre
+il va coudre
+tailleur
+tailleur
+tailleurs
+jaloux
+jalouse
+jaloux
+gazelles
+gazelle
+gazelles
+emmagasiner
+il va emmagasiner
+ficher
+il va ficher
+fondation
+fondations
+l’avenir
+chevaux
+tente
+tentes
+nuage
+nuages
+bien
+biens
+meilleur
+fil à coudre
+fils à coudre
+exaucer
+il va exaucer
+connaissance
+connaissances
+passer par
+il va passer par
+se vexer
+il va se vexer
+travail
+travaux
+être timide
+il va être timide
+différend
+différends
+être enceinte
+elle va être enceinte
+finir
+il va finir
+honneur
+honneurs
+s'évanouir
+richesse
+chanson
+chansons
+devenir riche
+il va devenir riche
+cochon
+cochons
+jalousie
+être détruit
+il va être détruit
+être endommagé
+il va être endommagé
+couverture
+offenser
+il va offenser
+tampon
+tampons
+un complot
+des complots
+bracelet plat en or
+bracelets plat en or
+commandement
+tromperie
+tromperies
+couture
+peur
+pains ronds
+pain rond
+pains ronds
+saint
+sainte
+saints
+légume
+légumes
+saint
+pardon de Dieu
+goule
+goules
+choses
+parfum huileux
+cinq cents
+un cinquième
+richesse
+ongle
+ongles
+corbeau
+exil
+offrande
+offrandes
+chambre
+chambres
+interstice
+interstices
+boucle d'oreille
+boucles d'oreilles
+exode
+grosse branche
+grosses branches
+couverture
+couvertures
+danger
+non
+lait
+laits
+cacher
+il va cacher
+habiller
+il va habiller
+habillé
+habillée
+habillés
+hôpital
+hôpitaux
+il faut
+foyer
+foyers
+drap
+draps
+tourner
+il va tourner
+grand voile
+des grands voiles
+se couvrir avec un voile
+il va se couvrir avec un voile
+virage
+virages
+rencontrer
+il va rencontrer
+cueillir
+il va cueillir
+cueillette
+flamme
+flammes
+jusqu'à
+viande
+viande
+flamme
+se réfugier
+il se réfugie
+réfugié
+réfugiée
+réfugié
+mais
+accuser
+il va accuser
+grand
+grande
+se rassembler
+ça va se rassembler
+concerné
+rassembleur
+rassembleurs
+toucher
+il va toucher
+fait de rammasser
+rassemblés
+lampe
+collé
+collée
+collés
+coller
+il va coller
+enrouler
+il va enrouler
+boucle de corde
+envelopper
+il va envelopper
+ramasser
+il va ramasser
+bouillie très légère
+humide
+humide
+humides
+empêcher de bouger
+il va empêcher de bouger
+il faut
+délicieux
+délicieuse
+pousser
+il va pousser
+caresser
+il va caresser
+maudire
+il va maudire
+malédiction
+malédictions
+errant
+à
+pour que
+sac en plastique
+sacs en plastique
+école
+écoles
+nuit
+nuits
+une nuit
+nuits
+citrons
+s'habiller
+il va s'habiller
+trouver
+il va trouver
+hangar
+hangars
+petits beignets
+trouver
+il va trouver
+atteindre
+il va atteindre
+mors
+mors
+toucher
+il va toucher
+langue
+langues
+encore
+pneu
+pneus
+litre
+litre
+jouer
+il va jouer
+tablette en bois
+tablettes en bois
+remuer la queue
+il va remuer la queue
+couleur
+couleurs
+l’amande
+résine parfumée
+vêtement
+vêtements
+intérieur
+haricots
+haricot
+bouchée
+bouchées
+langue parler
+langues parler
+réunion
+réunion
+reproche
+ne pas
+mouillé
+construit
+construite
+construits
+félicitations
+béni
+bénie
+content
+contente
+contents
+aller
+il ira
+fourche
+fourches
+effacer
+il va effacer
+tresser les cheveux
+il va tresser les cheveux
+fendu
+fendue
+fendus
+connu
+connue
+connus
+fait de marcher
+allant
+allant
+allant
+point d'eau
+points d'eau
+félicité
+félicitée
+félicités
+occupé
+occupée
+occupés
+oriental
+signer
+il va signer
+aire à battre les céréales
+faire l'éloge
+il va faire l'éloge
+mâcher
+il va mâcher
+comme ou parce que
+abattoir
+abattoirs
+tanné
+tannée
+tannés
+tendre vers
+il va tendre vers
+enterré
+enterrée
+enterrés
+tressé
+tressée
+tressés
+battu
+battue
+battus
+risée ou objet de moquerie
+bouillie
+bouillies
+ville
+villes
+mastication
+entrée d’une ville
+les entrées d’une ville
+plaignant
+plaignante
+plaignants
+conservé
+fiable
+fiable
+fiables
+école arabe
+écoles arabes
+je sais pas
+battu ou peint
+battue ou peinte
+battus ou peints
+débiteur
+débiteuse
+débiteurs
+écrasé
+écrasée
+écrasés
+ouvert
+ouverte
+ouverts
+tordu
+tordue
+tordus
+plants à repiquer
+mesure
+mesures
+paire de ciseaux
+balayé
+balayée
+balayés
+repiquer
+il va repiquer
+frit
+frite
+frits
+coupé
+coupée
+coupés
+fait de rester en un lieu
+amour
+amours
+présence
+souffrance
+souffrances
+affection
+aimé
+aimée
+aimés
+présence
+présences
+protégé
+protégée
+protégés
+méprisé
+méprisée
+méprisés
+salaire mensuel
+salaires mensuels
+tribunal
+tribunals
+gratté
+grattée
+grattés
+destruction
+compté
+comptée
+comptés
+fait de tirer
+gloire
+glorieux
+louer Dieu
+il va louer Dieu
+conseil
+conseils
+assemblée
+groupe
+groupes
+fou
+folle
+fous
+caniveau
+caniveaux
+blessé
+blessée
+moteur
+inspecté
+inspectée
+inspectés
+ourlé
+ourlée
+ourlés
+s’installer
+il va s’installer
+porte-malheur
+porte-malheur
+porte-malheurs
+attrapé
+attrapée
+attrapés
+détesté
+détestée
+détestés
+profit
+profits
+cassé
+cassée
+cassés
+bureau
+bureaux
+note écrite
+notes écrites
+écrit
+écrite
+écrits
+fer à repasser
+fers à repasser
+voyage
+magasin
+magasins
+falsifié
+falsifiée
+falsifiés
+créé
+créée
+créés
+mélangé
+mélangée
+mélangés
+coucher du soleil
+couchers du soleil
+victime
+victime
+victimes
+scellé
+scellée
+scellés
+emmagasiné
+emmagasinée
+emmagasinés
+biens
+bien
+bienss
+Qu’est-ce que
+pencher
+il va se pencher
+remplir
+il va remplir
+pourquoi
+ange
+anges
+gouverner
+il va gouverner
+il gouverne
+royal
+royale
+plein
+pleine
+pleins
+roi
+rene
+rois
+remplissage
+refuge
+refuges
+tremper
+il va tremper
+arracher
+il va arracher
+plein
+pleine
+pleins
+million
+des millions
+royaume
+royaumes
+dominé
+dominée
+dominés
+interdit
+interdite
+interdits
+teint
+teinte
+teints
+interdire
+il va interdire
+force
+mangue
+rugeux
+rugeuse
+rugeux
+sperme
+localité
+localités
+maudit
+maudite
+maudits
+pains longs
+une pain longue
+femme
+femmes
+maladie
+maladies
+tant pis
+sortir
+il va sortir
+sortie
+perles rouges
+une perle rouge
+goût amer
+amertume
+porte-bonheur ou liens pour attacher un animal
+porte-bonheur ou liens pour attacher un animal
+attaché
+attachée
+attachés
+malade
+malade
+malades
+hyène
+hyènes
+soulevé
+soulevée
+soulevés
+mare
+maree
+être le bienvenu
+il sera le bienvenu
+accueil
+moulu
+moulue
+moulus
+défunt
+défunte
+défunts
+il est en train de sortir
+elle est en train de sortir
+ils sont en train de sortir
+mou
+molle
+mous
+bière de mil
+bières de mil
+pirogue
+pirogues
+centre
+centres
+paire de chaussures
+paires de chaussures
+se rouler par terre
+il va se rouler par terre
+fois
+deux fois
+plusieurs fois
+plusieurs fois
+parfois
+rendre malade
+il va rendre malade
+expulser
+rendre insupportable
+il va rendre insupportable
+messager
+messagers
+décret
+décrets
+aligné
+alignée
+alignés
+aimé
+aimée
+aimés
+lieu de pâturage
+lieux de pâturage
+distance
+distances
+enduire
+il va enduire
+onction
+attraper
+il va attraper
+perdre son goût
+exemple
+exemples
+par exemple
+maïs
+voyage
+argent pour les dépenses quotidiennes
+moulé ou métal
+moulée ou métale
+moulés ou métals
+fermé
+fermée
+fermés
+scandale
+scandales
+chrétien
+chrétienne
+chrétiens
+onction
+école coranique
+écoles coraniques
+prisonnier
+prisonniere
+prisonniers
+demeure
+demeures
+rendre humble
+il se fait humble
+bénéfice
+bénéfices
+fabriqué
+fabriquée
+fabriqués
+volé
+volée
+volés
+enduire
+il va enduire
+confier
+il va confier
+rendre sans goût
+il va rendre sans goût
+représenter quelqu’un
+responsable
+une responsable
+responsables
+responsabilité
+mourir
+il va mourir
+quand
+pluie
+pluie
+pluies
+arc-en-ciel
+plié
+pliée
+pliés
+stupide
+stupide
+stupides
+chassé
+chassée
+chassés
+filé
+filée
+filés
+étendre
+il va étendre
+allonger
+ça va s'allonger
+objet de discussion
+objets de discussion
+gare routière
+gares routières
+être présent
+être présente
+être présents
+naissance
+pencher
+il va se pencher
+mort
+morte
+morts
+mortes
+fondre
+il va se fondre
+avec
+nourriture
+cuillère
+cuillères
+sens
+sens
+pressé ou extrait
+pressée ou extraite
+pressés ou extraits
+handicapé
+handicapée
+handicapés
+nourriture
+information
+informations
+connaissance
+connaissances
+connu
+connue
+connus
+désobéissance
+désobéissances
+récipient
+récipients
+choisi
+choisie
+choisis
+invité
+invitée
+invités
+déraciner
+ça va se déraciner
+lance-pierres ou fronde
+mesure
+mesures
+naissance
+sel
+propriété
+de
+foulard ou mouchoir de tête
+foulards
+impôt
+tomber malade
+il va tomber malade
+comme
+pauvre
+pauvre
+pauvres
+deux cents
+mètre
+mètres
+cent
+cents
+balance
+balances
+vague d’eau
+vagues d’eaux
+le mort
+faire mourir
+ça fait mourir
+évangeliste
+évangelistes
+échange
+béni
+bénédiction
+troublé
+troublée
+troublés
+vente
+fendu
+fendue
+fendus
+déchiré
+déchirée
+déchirés
+tresse
+dispersé
+dispersée
+dispersés
+consultation
+consultations
+torche
+torche
+problème
+problèmes
+fou
+folle
+foux
+idolâtre
+idolâtre
+idolâtres
+mouchoir
+mouchoirs
+tombé
+tombée
+tombés
+graisseux
+graisseuse
+graisseux
+foncé
+foncée
+foncés
+pris comme caution
+prise comme caution
+pris comme caution
+détruit
+détruite
+détruits
+penché en avant
+penchée en avant
+penchés en avant
+roulé
+bordé
+bordée
+bordés
+enseignant
+enseignante
+enseignants
+contrainte
+agonisant
+agonisante
+agonisants
+période
+périodes
+bien implanté
+bien implantée
+bien implantés
+fléau
+fléaux
+soudain
+soudaine
+pauvre
+pauvre
+pauvres
+étendu
+séparé
+séparée
+séparés
+qui sépare
+qui sépare
+qui séparent
+dénoué
+dénouée
+dénoués
+commentateur
+commentatrice
+commentateurs
+utile
+utile
+utiles
+homme pervers
+femme pervers
+hommes pervers
+clé
+clés
+rencontre
+qui revient
+qui revient
+qui reviennent
+en face de
+en face de
+en face de
+qui est mis devant
+qui est mise devant
+qui sont mis devant
+qui est devant ou qui est en avant guide
+qui est devant ou qui est en avant guide
+qui sont devant ou qui sont en avant guide
+introduction
+fermé
+fermée
+fermés
+troué
+trouée
+troués
+flambé
+flambée
+flambés
+coupé
+coupée
+coupés
+qui manque à
+qui manque à
+qui manquent à
+coupé
+coupée
+coupés
+balai
+balais
+de l’autre côté
+conversation
+
+limité
+limitée
+limités
+préfet
+préfets
+attaqueur
+attaqueuse
+attaqueurs
+mendiant
+mendiante
+mendiants
+procès
+avocat
+avocate
+avocats
+bataille
+combattant
+combattante
+combattants
+brûlé
+brûlée
+brûlés
+entouré
+entourée
+entourés
+qui entoure
+qui entoure
+qui entourent
+qui aime
+qui aime
+qui aiment
+important
+importante
+importants
+océan
+qui est dans le besoin
+qui est dans le besoin
+qui sont dans le besoin
+respecté
+respectée
+respectés
+respectable
+respectable
+respectables
+lépreux
+lépreuse
+lépreux
+décoré
+décorée
+décorés
+enchaîné
+enchaînée
+enchaînés
+limitrophe
+limitrophe
+limitrophes
+creux
+creuse
+creux
+criminel
+criminelle
+criminels
+milieu social
+milieux socials
+récompense
+chargé
+chargée
+chargés
+courbé
+courbée
+courbé
+froissé
+respectable
+respectable
+respectables
+paralytique
+paralytique
+paralytiques
+cassé
+cassée
+cassés
+prédestiné
+prédestinée
+prédestinés
+sanctifié
+sanctifiée
+sanctifiés
+facile à tromper
+facile à tromper
+faciles à tromper
+opposition
+oppositions
+mélangé
+mélangée
+mélangés
+qui contredit
+qui contredite
+qui contredits
+sauveur
+sauveuse
+sauveurs
+chanteur
+chanteurs
+décreté
+destructeur
+destructeuse
+destructeurs
+discorde
+consacré
+consacrée
+consacrés
+qui est d'accord
+qui est d'accord
+qui sont d'accord
+recouvert
+recouverte
+recouverts
+couvert
+couverte
+couverts
+celui qui baptise
+campement de tentes
+campements de tentes
+cousu
+cousue
+cousus
+brûle-parfum
+brûle-parfums
+cerveau
+cerveaux
+dispute
+sac en peau
+sacs en peau
+sincère
+sincère
+sincères
+mukhlisa avec tout son coeur
+morceau de calebasse pour extraire la boule
+morceaux de calebasse pour extraire la boule
+poinçon
+poinçons
+choisi
+moule
+caché
+cachée
+cachés
+se cachant
+se cachant
+se cachant
+rencontre
+suivant pas à pas
+suivant pas à pas
+sauce
+sauces
+réunion
+réunions
+collé
+collée
+collés
+enroulé
+enroulée
+enroulés
+coloré
+colorée
+colorés
+qui sont face à face
+se cachant
+se cachant
+pouvoir
+représentant
+représentante
+représentants
+allongé
+allongée
+allongés
+peut-être
+ce n’est pas possible
+possession
+possessions
+espoir
+appel
+hypocrite
+hypocrite
+hypocrites
+bien cuit
+bien cuite
+bien cuits
+souillé
+souillée
+souillés
+sauveur
+sauveuse
+sauveurs
+astrologue
+astrologues
+discussion
+discussion
+occasion
+organisation
+organisations
+organisateur
+organisatrice
+organisatreurs
+nord
+nordiste
+nordiste
+nordistes
+scie
+scies
+sérieux
+sérieuse
+sérieux
+nez ou anneau
+nez
+attaché
+attachée
+attachés
+carré
+carrée
+carrés
+troupeau en marche
+troupeaux en marche
+cuit à l’eau
+cuite à l’eau
+cuits à l’eau
+monté
+montée
+montés
+qui fait cuire
+qui fait cuire
+qui font cuire
+supervision
+supervisions
+superviseur
+superviseuse
+superviseurs
+messager
+messagere
+messagers
+aligné
+alignée
+alignés
+pilier
+piliers
+meule
+meules
+itinéraire de transhumance ou voie lactée
+amer
+amere
+amers
+messager
+messagere
+messagers
+à l’aise
+à l’aise
+à l’aise
+mercenaires
+stable
+stable
+stables
+voyageur
+voyageuse
+voyageurs
+enregistré
+enregistrée
+enregistrés
+armé
+armée
+armés
+empoisonné
+empoisonnée
+empoisonnés
+qui lève la tête
+qui lève la tête
+qui lèvent la tête
+aide
+aides
+pressé
+pressée
+pressés
+aide
+aide
+aides
+musique
+musulman
+musulmane
+musulmans
+clou
+clous
+intestin
+intestins
+conseiller
+conseillere
+conseillers
+impossible
+impossibles
+orgueilleux
+orgueilleuse
+orgueilleux
+avenir
+bâton pour la boule
+circoncis
+circoncise
+circoncis
+fier
+fiere
+fiers
+expert
+divorcé
+divorcée
+divorcés
+chasse
+traduit
+traduite
+traduits
+équivalent
+tourné
+moyen
+moyenne
+moyens
+qui  duré
+qui  durée
+qui  durés
+malfaisant
+malfaisante
+malfaisants
+chicotte
+chicottes
+bobine pour filer
+bobines pour filer
+égaré
+égarée
+égarés
+accord
+qui est d’accord
+qui est d’accord
+qui sont d’accord
+s’orientant vers
+s’orientant vers
+s’orientants vers
+responsable
+responsable
+responsables
+habitué
+habituée
+habitués
+allumé
+allumée
+allumés
+fonctionnaire
+fonctionnaire
+fonctionnaires
+cultivateur
+cultivateuse
+cultivateurs
+pécheur
+pécheuse
+pécheurs
+mis en boule
+mise en boule
+mis en boule
+bien élevé
+bien élevée
+bien élevés
+réparé
+réparée
+réparés
+pacte
+pactes
+loué
+louée
+loués
+assuré
+assurée
+assurés
+sûr
+sûre
+sûrs
+réfugié
+soin
+soins
+suspendu
+suspendue
+suspendus
+enseignant
+enseignante
+enseignants
+acte
+actes
+complot
+qui  confiance en
+qui  confiance en
+qui ont confiance en
+féminin
+féminine
+opposant
+opposante
+opposants
+exposé au danger
+exposée au danger
+exposés au danger
+qui se sauve
+qui se sauve
+qui se sauvent
+camp
+camps
+parfumé
+parfumée
+parfumés
+celui qui aide
+ceux qui aide
+consolateur
+consolateuse
+consolateus
+équipement
+prodige
+prodiges
+croyant
+croyante
+croyants
+insulte
+jujubiers ou jujubes
+une jujube
+aboyer
+il va aboyer
+plantes
+plantes
+prophète
+prophète
+prophètes
+ammoniaque
+stimuler
+fil va stimuler
+actif
+rosée
+appeler
+il va appeler
+propreté
+regret
+nettoyer
+il va nettoyer
+paire de lunettes
+paires de lunettes
+propre
+propre
+propres
+regrettant
+regrettante
+regrettants
+personne
+gonfler
+il va gonfler
+genre
+respiration
+servir à
+ça va servir à
+agrandir
+il va agrandir
+respirer
+il va respirer
+exécuter un ordre
+il va exécuter un ordre
+groupe de travail
+âme
+âmes
+utile
+utile
+utiles
+souffle
+pareil
+chamelle
+chamelles
+piquer pour dépolir
+défaire
+il va défaire
+revenir sur une décision
+il va revenir sur une décision
+transporter
+il va transporter
+réduire
+il va réduire
+réduit
+plaine vide
+plaines vides
+éplucher
+il va éplucher
+goutter
+ça va goutter
+gouttes
+pur
+pure
+purs
+écaillage d’une surface lisse
+transport
+moins
+lamenter
+piller
+il va piller
+abeilles
+abeille
+jour
+cuivre
+pillage
+salut
+ruse
+réussir
+il va réussir
+succès
+tailler
+il va tailler
+impureté
+mûr
+mûre
+mûrs
+malin
+maline
+malins
+sauver
+il va  sauver
+faire cuire
+il va faire cuire
+sculpteur
+sculpteurs
+salir
+il va salir
+étoile
+étoiles
+refuser
+il va refuser
+creuser
+il va creuser
+qui refuse
+qui refuse
+qui refusent
+faire des trous
+il va faire des trous
+l’autre côté de
+palabrer
+il va palabrer
+palmiers dattiers
+palmier dattier
+palmiers dattiers
+griffer
+il va griffer
+dormir
+il va dormir
+jusqu'à
+être jaloux
+il va être jaloux
+jaloux
+jalouse
+jaloux
+murmurer
+il va murmurer
+feu
+feux
+briller
+ça va briller
+se lier avec une belle-famille
+gagner
+il va gagner
+beau-père
+beau-pères
+malheur
+belle-mère
+belle-mères
+bon conseil
+vainqueur
+faire oublier
+ça fait oublier
+faire des brochettes
+qui oublie vite
+qui oublie vite
+qui oublient vite
+victoire
+produire
+il va produire
+résultat
+sauter
+il va sauter
+sautiller
+pleureur
+pleureuse
+pleureurs
+faire dormir
+ça fait dormir
+fleurir
+ça va fleurir
+adjoint
+adjointe
+dormant
+dormante
+dormants
+flanc
+flancs
+descendre
+il va faire descendre
+se consacrer
+ça va se consacrer
+faire descendre
+organiser
+il va  organiser
+descente
+brebis
+brebis
+maudire
+il va maudire
+paire de sandales
+malédiction
+Oui
+autruches
+autruche
+malédiction
+menthe
+cru
+crue
+crus
+sécher
+ça va se sécher
+regretter
+il va regretter
+hypocrisie
+utilité
+fin
+fins
+têtu
+têtue
+têtus
+petit malin
+être sauvé de
+il sera sauvé de
+mûrir
+ça va se mûrir
+mûr
+impur
+impure
+impurs
+panthère
+panthères
+fourmis
+fourmi
+cancer de la peau
+numéro
+numéros
+jalousie
+oublier
+il va oublier
+vouloir
+volonté
+ordre
+sandales
+sandales
+somnoler
+il va somnoler
+grâce
+chèvres
+sommeil
+qualité
+qualités
+arc
+arcs
+flèche
+flèches
+tam-tam
+tam-tams
+trou
+trous
+point
+points
+paire de lunettes
+paires de lunettes
+lumière
+lumineux
+moitié
+pleurs
+fleurs
+fleur
+descente
+chiffon
+chiffons
+chambre à coucher
+chambres à coucher
+allumer
+il va allumer
+allumette
+allumettes
+nage
+dire
+il va dire
+parties génitales
+faire cocorico
+il va faire cocorico
+sandalettes
+pelle
+pelles
+pioche
+d’identité
+clou
+clous
+poupée
+attacher
+il va attacher
+seigneur
+élever
+il va élever
+attacher
+il va attacher
+qui fait des noeud
+coupeur de route
+coupeurs de route
+bénéficiaire
+bénéficiaire
+bénéficiaires
+attaché
+attachée
+attachés
+quatrième
+quatrième
+arroser en fines gouttes
+il va arroser en fines gouttes
+corruption
+corruptions
+aimer
+il va aimer
+réponse
+répondre
+il va répondre
+apaiser le coeur
+il va apaiser le coeur
+allaiter
+elle  va allaiter
+satisfait
+satisfaite
+satisfaits
+nourrisson
+nourrisson
+nourrissons
+nourrison
+nourrison
+remblai
+satisfait
+satisfaite
+satisfaits
+poste de radio
+des postes de radio
+rejeter
+il va rejeter
+amitié sincère
+lier une amitié
+il va lier une amitié
+amitié
+soulever
+il va soulever
+quartier
+quartiers
+ami
+amie
+amis
+cou
+cous
+se coucher
+il va se coucher
+danser
+il va danser
+mettre au lit
+il va mettre au lit
+couché
+couchée
+couchés
+hurler de joie
+il va hurler de joie
+se perdre
+il va se perdre
+repos
+marigot
+marigots
+se déplacer
+il va se déplacer
+faire miséricorde
+il va faire miséricorde
+miséricorde
+miséricordes
+accueillir
+il va accueillir
+déplacement
+broyage
+déplacement du campement
+grand nomade
+grands nomades
+miséricordieux
+gracieux
+trembler
+il va trembler
+bravoure
+jeter des pierres
+il va jeter des pierres
+retourner
+il va retourner
+homme
+hommes
+faire trembler
+ça fait trembler
+faire attendre ou faire revenir
+position dans une hiérarchie
+comploter
+il va comploter
+s’incliner pendant la prière
+s’incline pendant la prière
+passager
+passagere
+passagers
+faire cuire dans l’eau
+il va faire cuire dans l’eau
+poser
+il va poser
+s’appuyer sur
+il va s’appuyer sur
+fait de monter sur
+se promener
+il va se promener
+superviser
+il va superviser
+tendre
+tendre
+tendres
+avare
+avare
+avares
+peu cher
+peu chere
+jeter à terre
+il va jeter à terre
+conjonctivite
+mois du jeûne
+gros sable
+symbole
+symboles
+briller
+ça va briller
+tête
+deux tête
+têtes
+dessiner
+il va dessiner
+dessin
+dessins
+capital
+officiel
+officielle
+officiels
+aligner
+ça va aligner
+envoyer
+il va envoyer
+envoyé de Dieu
+envoyés de Dieu
+parler une langue non-arabe
+un parler non-arabe
+désaltération
+irrigué
+irriguée
+irrigués
+avis
+drapeau
+drapeaux
+qui marche
+qui marche
+qui marchent
+retrouver la santé
+il va retrouver la santé
+prendre soin de
+il va prendre soin de
+pourvoir à
+il va pourvoir à
+paître
+il va paître
+tonnerre
+berger
+bergere
+bergers
+président
+présidente
+présidents
+amour
+profit
+bénéficier
+il va bénéficier
+plumes
+plume
+premières pluies
+faveur
+accepter
+il va accepter
+têter
+fin
+fine
+fins
+vent
+odeur forte
+odeurs fortes
+hérons ou garde-boeuuf
+moudre
+il va moudre
+attendre
+il va attendre
+jambe
+jambe
+jambes
+ruisseau
+ruisseaux
+monter
+il va monter
+écume
+écumes
+cadavre
+cadavres
+message
+messages
+bon entretien
+se rassasier
+il va se rassasier
+sport
+pièce valant cfa
+pièces valant cfa
+minimum vital
+riz
+soins
+rêver
+il va rêver
+saigner du nez
+il va saigner du nez
+avoir pitié
+il aura pitié
+rang
+rangs
+lien
+ballot
+ballote
+un quart
+esprit
+esprits
+cendres
+fausse couche
+fausses couches
+grenade
+grenades
+promenade
+terreur
+terreur
+songe
+songes
+atteindre
+ça va atteindre
+cause
+causes
+course
+arriver le premier
+il va arriver le premier
+est matin
+bracelets en plastique
+patienter
+il va patienter
+écureuils
+écureuil
+se fixer
+ça va se fixer
+stabilité
+verser
+il va verser
+avoir la diarrhée
+il va avoir la diarrhée
+causer
+ça va causer
+louer Dieu
+il va louer Dieu
+consoler
+il va consoler
+affermir
+il va affermir
+stabilisation
+tableau noir
+oriental
+orientale
+orientals
+jeune homme
+jeune femme
+jeunes hommes
+diarrhée
+gagnant
+pour l’amour de
+samedi
+stable
+stable
+stables
+septième
+septième
+sabbat
+savon
+savon
+patience
+patient
+patiente
+patients
+sept
+dix-sept
+soixante-dix
+rencontrer par hasard
+il va rencontrer par hasard
+sacrifice
+sacrifices
+barrage
+fermer
+il va fermer
+croire
+il va croire
+donner l’aumône
+il va donner l’aumône
+petit ami
+petite amie
+petits amis
+loyal ou fidèle
+loyale ou fidèle
+loyals ou fidèles
+sixième
+sixième
+poitrine
+poitrines
+voyage
+voyager
+il va voyager
+gourdin
+gourdins
+côte
+côtes
+purifier
+il va purifier
+applaudir
+il va applaudir
+envoyer à l’étranger
+va envoyer à l’étranger
+filtre
+filtres
+pur
+pure
+purs
+stupide
+stupide
+stupides
+bateau
+bateaux
+conduire
+va conduire
+entrain de conduire
+souffler
+il  va souffler
+tibia
+tibias
+rouille
+froid
+faucon ou nom d'une constellation
+aigle
+nuages
+nuage
+terrain plat et nu
+terrains plats et nu
+ensorceler
+ça va ensorceler
+veiller
+il va veiller
+désert
+déserts
+aider
+il va aider
+manger tôt le matin
+il va manger tôt le matin
+sorcier
+sorciere
+sorciers
+camarade
+camarade
+camarades
+vrai
+vraie
+sorcier
+sorciere
+sorciers
+collation
+se prosterner
+il va se prosterner
+emprisonner
+sera emprisonner
+enregistrer
+il va enregistrer
+habiter
+va habiter
+ivresse
+se taire
+il va se taire
+habitant
+habitante
+habitants
+silencieux
+silencieuse
+silencieux
+loger
+il va loger
+enivrer
+il va enivrer
+ivrogne
+ivrogne
+ivrognes
+calmer
+ça va calmer
+couteau
+couteaux
+sac
+ivre
+ivre
+ivres
+chevreau
+chevreaux
+chaleur
+petit
+petite
+petits
+petits
+bébé
+bébés
+chauffer
+ça va chauffer
+bouilloire en plastique
+bouilloires en plastiques
+couler
+ça va se couler
+prière
+prières
+placenta d’un animal
+crucifier
+il va crucifier
+faire la paix
+il va faire la paix
+écorcher
+écorcher
+paix
+paix
+croix
+vertueux
+vertueuse
+vertueux
+sans défaut
+sans défaut
+sans défauts
+prier
+il va prier
+enlever
+faire sortir
+il va faire sortir
+saluer
+il va saluer
+fait d'ôter
+jeûner
+il va jeûner
+ciel
+ciels
+permettre
+il va permettre
+beauté
+pardonner
+il va pardonner
+céleste
+céleste
+célestes
+beau
+belle
+beaux
+gros
+grosse
+gros
+écoute
+poison
+poisons
+nommer
+il va nommer
+engraisser
+ça va engraisser
+gomme arabique
+gomme arabique
+année
+années
+deux années
+idole
+idoles
+fabriquer
+il va fabriquer
+bois de santal
+malle
+malles
+regarder en haut
+il va regarder en haut
+moustiquaire
+moustiquaires
+puits profond
+centimètre
+centimètres
+partir
+il va partir
+lac mirage
+voler
+il va voler
+paître
+il va paître
+crier
+il va crier
+cri de détresse
+pratiquer la lutte sportive
+fait d’emmener au pâturage
+parti au pâturage
+partie au pâturage
+selle du cheval
+selles du cheval
+cri de détresse
+bride
+brides
+lit
+lits
+rapide
+rapide
+rapides
+éternellement
+nouer dans un mouchoir
+il va nouer dans un mouchoir
+voleur
+voleuse
+voleurs
+brider
+il va brider
+arbre de cyprès
+préparer la boule
+il va préparer la boule
+couvrir
+il va couvrir
+protecteur
+protecteuse
+protecteurs
+ensemble
+semblable
+exactement ou le même
+équivaloir
+ce qui équivaut
+commercer
+il va commercer
+faire
+va faire
+viser
+va viser
+chauffeur
+chauffeurs
+fabrication
+jeûnant
+jeûnante
+jeûnants
+voyageur
+voyageuse
+voyageurs
+passer la saison sèche
+va passer la saison sèche
+bijoutier
+bijoutiere
+bijoutiers
+nomade
+nomade
+nomades
+monsieur
+mesieurs
+madame
+madames
+heure ou montre
+deux heures
+heures ou montres
+difficile
+difficile
+difficiles
+fortuné
+aider
+va aider
+chance
+demander
+va demander
+chanceux
+chanceuse
+être pressé
+va être pressé
+hâte
+gibier
+saison chaude
+saisons chaudes
+épée
+épées
+inondation
+lanière de cuir
+lanières de cuir
+chapelet
+chapelets
+myrrhe
+myrrhes
+maître
+maîtres
+même ou lui-même ou moi-même
+même ou elle-même ou moi-même
+mêmes ou eux-même ou elles-même
+couvercle
+couvercles
+gilet
+gilets
+loyauté
+zéro
+rayures
+santé
+sorcellerie
+sorcelleries
+prison
+prisons
+s’enivrer
+va s’enivrer
+arme
+armes
+pièce de monnaie
+pièces de monnaies
+chaîne
+chaînes
+ciment
+pardon
+grossir
+va grossir
+écouter
+va écouter
+loup
+loups
+industrie
+industries
+artisan
+artisane
+artisans
+dent
+dents
+sable
+hurlement
+vol
+voler
+va voler
+secret
+secrets
+concubine
+concubines
+petite pièce d’or
+petites pièces d’or
+rideau
+rideau
+rideaux
+seize
+six
+soixante
+jeûne
+politique
+politiques
+grenier
+greniers
+petit marché
+qui accompagne
+corbeille
+corbeilles
+éponge
+voix
+voix
+chicote ou éclair
+chicotes
+jeunesse
+exalté
+que Dieu soit glorifié
+prière de l'aube
+semaine
+sept cents
+au hasard
+poils ou cheveux
+poil
+sifflet
+sifflets
+plateau
+plateaux
+marché
+marchés
+facilement
+sucre
+pain de sucre
+pouvoir
+pouvoirs
+roi
+rois
+rein
+prendre courage
+réconciliation
+sésame
+acacias
+acacias
+industrie
+industries
+image
+images
+lutte au corps à corps
+nombril
+nombrils
+pantalon
+pantalons
+rapidité
+rapidement
+ver dans le bois ou carie dentaire
+six cents
+bracelet large
+bracelets large
+question
+questions
+difficulté
+difficultés
+se repentir
+il va se repentir
+plier
+il va plier
+van
+vans
+contribution
+contributions
+imprimer
+il va imprimer
+suivre
+il va suivre
+suivre
+il va suivre
+mettre en pratique
+il va mettre en pratique
+cuire
+il va cuire
+cuisinier
+cuisiniere
+cuisiniers
+fait de plier
+application
+changement
+suivant
+suivante
+suivants
+grille pour des grillades
+grilles pour des grillades
+griller
+il va griller
+être perdu
+incendie
+formation
+formations
+s’entendre
+il va s’entendre
+remonter son habit pour monter un animal
+il va remonter son habit pour monter un animal
+cendrier
+cendriers
+racisme
+explication
+fardeau
+fardeaux
+avance
+frapper
+il va frapper
+lourd
+lourde
+lourds
+chapeau
+chapeaux
+soupçonner
+il va soupçonner
+purification
+purifications
+circoncire
+il va circoncire
+purifier
+il va purifier
+pur
+pure
+purs
+moulin
+moulins
+circoncision
+circoncisions
+friteuse
+friteuses
+couronne
+couronnes
+commercer
+il va commercer
+commerçant
+commerçante
+commerçants
+tentation
+tentation
+entièrement
+composition
+pieux
+pieuse
+pieux
+épais
+épaise
+épais
+environ
+piété
+changement
+changements
+durer
+ça va durer
+demander
+il va demander
+demande
+relâcher
+il va relâcher
+divorce
+divorces
+être en travail
+il va être en travail
+contraction ou accouchement
+contractions ou accouchements
+enduire
+il va enduire
+trois
+treize
+trente
+grimper
+il va grimper
+en cachette
+renommé
+renommée
+renommés
+abîmé
+abîmée
+abîmés
+arbres (mimosa épineux)
+demande
+glace
+troisième
+troisième
+montant
+montante
+montants
+parent
+abîmer
+va s'abîmer
+divorcer
+il va divorcer
+faire enduire
+il va faire enduire
+obtenir
+il va obtenir
+échelle
+échelles
+le fait de se lever
+le lever du soleil
+puits peu profond
+complet
+complete
+complets
+prix
+huit
+quatre-vingts
+dix-huit
+être sous l’eau
+il sera sous l’eau
+stupidité
+tomates
+tomate
+avidité
+petit tambour
+petits tambours
+huitème
+huitème
+terminer
+compléter
+il va compléter
+enfoncer dans l'eau
+il va enfoncer dans l'eau
+avide
+avide
+avides
+dattes
+datte
+prophétie
+second
+seconde
+faire une deuxième fois
+il va faire une deuxième fois
+voler
+il va voler
+vengeance
+cela suffit
+prononcer
+il va prononcer
+heurter
+il va heurter
+vomir
+il va vomir
+chasser
+il va chasser
+pourchasser
+il va pourchasser
+bord
+bords
+avorter en parlant des animaux
+laisser
+il va laisser
+table
+tables
+sourd
+sourde
+sourds
+petit voile
+petits voiles
+or
+fait de chasser de
+chemin
+chemins
+voie
+voies
+secte
+sectes
+histoire
+histoires
+tranchant
+tranchante
+tranchants
+traduire
+il va traduire
+traduction
+filer le coton
+il va filer le coton
+renvoi
+pousser loin
+il va pousser loin
+aiguiser
+il va aiguiser
+roter
+il va roter
+aiguisage
+dérouter
+il va dérouter
+moyen
+petite cuvette émaillée
+petites cuvettes émaillée
+neuvième
+neuvième
+se mêler
+il va se mêler
+humilité
+regarder furtivement
+il va regarder furtivement
+long
+longue
+longs
+Thora
+la loi de Moïse
+alors
+durer
+ça va durer
+immédiatement
+levure
+volant
+volante
+volants
+faire voler
+il va faire voler
+avion
+avions
+en bonne santé
+en bonne santé
+en bonne santé
+obéir
+il va obéir
+obéissance
+souffrance
+viens
+viens
+vinez
+bon goût
+piquer
+il va piquer
+qui peine
+qui peine
+qui peinent
+retard
+enseignement
+enseignements
+faire souffrir
+ça fait souffrir
+poignarder
+il va poignarder
+oiseaux
+oiseaux
+oiseaux
+semer
+il va semer
+semences
+semence
+bouc
+boucs
+antelope damalisque ou bubale
+paille
+nourrisson
+nourrissons
+babouin
+babouins
+purification
+dessous
+commerce
+être endommagé
+un tiers
+disciple
+disciple
+disciples
+convoiter
+statue
+statues
+figue
+argile boue
+deux
+tous les deux
+avortement
+Pléiade
+origine
+neuf
+dix-neuf
+quatre-vingt-dix
+histoire
+oisillon
+oisillons
+souffrir
+va souffrir
+étoffe
+étoffes
+conversion
+collier
+colliers
+jumeau
+jumeaux
+taureau
+taureaux
+se balancer
+va se balancer
+poids
+soupçon
+soupçons
+longueur
+trois cents
+ail
+ail
+crocodile
+crocodiles
+huit cents
+terre
+traducteur
+neuf cents
+fer blanc
+saveur
+esclavage
+nid
+nids
+dîme
+dîmes
+bâton
+bâtons
+vierge
+vierges
+cérémonie
+cérémonies
+entrave du chameau
+entraves des chameaux
+nœud
+nœuds
+conséquence
+conséquences
+location
+nation
+nations
+corbeille
+corbeilles
+âge
+âges
+violence
+quatre cents
+largeur
+doigt
+doigts
+orteil
+semaine
+deux  semaine
+semaines
+spécialiste
+spécialistes
+au milieu
+au milieu
+au milieux
+nom
+noms
+prière de heures
+au milieu
+balle (enveloppe de grain)
+plaie
+plaies
+et
+ni ... ni...
+fléau
+perte
+faire ses ablutions
+il va faire ses ablutions
+amener
+il va amener
+expliquer ou éclaircir
+il va expliquer ou eclairsir
+perdre
+il va perdre
+saluer pour dire au revoir
+il va saluer pour dire au revoir
+cauris
+cauris
+oued
+oueds
+clair
+claire
+clairs
+ablutions
+acquiescer
+il va acquiescer
+tenir sa promesse
+il va tenir sa promesse
+s'arrêter
+il va s'arrêter
+tomber
+il va tomber
+chute
+faire arrêter
+il va faire arrêter
+se tenant debout
+se tenant debout
+se tenant debouts
+tombé
+tombée
+tombés
+animal sauvage ou  oryx
+animaux sauvages
+illusion
+unique
+un
+une
+uns
+unes
+faire face à
+il va faire face à
+souffrance
+conjonctivite
+mal d’estomac ou diarrhée
+faire mal
+ça fait mal
+provoquer la souffrance
+ça va provoquer la souffrance
+obligation
+obligation
+obligations
+se tourner vers
+il va se tourner vers
+gérant
+gérante
+gérants
+temps
+temps
+quand
+confier
+il va confier
+sueur
+suer
+être proche de
+ça va être proche de
+s’habituer à
+il va s’habituer à
+fils de ma mère
+proche parent ou tuteur
+proche parent ou tuteur
+proche parents ou tuteurs
+père
+pères
+mère
+mères
+habitude
+ou bien
+accoucher une femme ou mettre au monde beaucoup d'enfants
+il va faire accoucher
+accoucheuse ou une femme qui  mis beaucoup d’enfants au monde
+faire bouillir
+ça va bouillir
+pardieu
+allumer
+ça va s'allumer
+accouchement
+accouchements
+utérus
+guérisseur
+guérisseurs
+causeur
+causeuse
+causeurs
+derrière
+toilettes
+aller chercher de l'eau
+avant l'aube
+feuilles
+feuilles
+papier important
+papiers importants
+hériter
+il va hériter
+héritage
+héritages
+feuilles
+feuille
+amulette
+amulettes
+héritier
+héritiere
+héritiers
+dernier
+derniere
+derniers
+agiter l'index pour gronder
+bâton pour remuer la sauce
+bâtons pour remuer la sauce
+saleté
+saletés
+arriver
+il va arriver
+terrain large
+description
+descriptions
+médiateur
+médiation
+médiations
+conseil
+conseils
+large
+large
+larges
+sale
+sale
+sales
+conseiller
+il va conseiller
+coussin
+coussins
+indiquer
+il va indiquer
+se salir
+il va se salir
+faire arriver à destination
+il va arriver à destination
+élargir
+ça va s'élargir
+parler à voix basse
+il va  parler à voix basse
+temps
+patrie
+patries
+sud
+voiture
+voitures
+venant du sud
+venant du sud
+venants du sud
+peser
+ça va peser
+poids
+ministre
+ministre
+ministres
+rendez-vous
+rendez-vous
+donner un rendez-vous
+il va donner un rendez-vous
+brousse inhabitée
+éveillé
+éveillée
+éveillés
+sauce
+où
+lequel
+laquelle
+lesquelles
+verre à boire
+verres à boire
+être debout
+il va être debout
+seul
+s’embourber
+il va s’embourber
+contrariété
+visage
+visages
+enfant ou garçon ou fils
+enfants ou garçons ou fils
+enfanter
+il va enfanter
+fièvre
+fièvres
+avoir de la fièvre
+il va avoir de la fièvre
+cuisse
+cuisses
+arriver
+il va arriver
+piquet
+piquets
+canards sauvages
+canard sauvage
+pus
+être réveillé
+état ou province
+états ou provinces
+O
+faire sécher
+ça va se sécher
+sec
+seche
+secs
+pierre précieuse
+allez
+si seulement
+qui
+qui
+lesquels
+c'est-à-dire
+sécher
+ça va se sécher
+oui
+d'accord
+jour
+deux jours
+des jours
+quotidien
+quotidienne
+quotidiens
+salaire d’une journée
+faire du beurre
+ça va faire du beurre
+musclé
+musclée
+musclés
+client
+cliente
+clients
+ajouter
+ça va s'ajouter
+provisions de route
+arroser
+il va arroser
+jeter
+il  jete
+jeter
+il va jeter
+vent qui précède la pluie
+ramper
+il va ramper
+poudre bleu
+bleu
+bleue
+bleus
+évident ou flagrant ou visible ou net ou clair
+évidente ou flagrante ou visible ou nette ou claire
+évidents ou flagrants ou visibles ou nets ou clairs
+fleur
+fleurs
+citer les noms de Dieu
+il cite les noms de Dieu
+étudier
+il va étudier
+intelligent
+intelligente
+intelligents
+rappeler
+il va rappeler
+pousser des cris de joie
+va pousser des cris de joie
+youyou
+passer
+opprimer
+il va opprimer
+oppresseur
+oppresseuse
+oppresseurs
+rendre misérable
+il va rendre misérable
+faire trembler
+il va trembler
+temps
+autrefois
+collègue
+collègue
+collègues
+forniquer
+il va forniquer
+qui  commis un adultère
+qui commis un adultère
+qui  commettent un adultère
+péché
+péchés
+coureur de jupon
+coureurs des jupons
+visiter
+il va visiter
+clôturer
+ça va etre clôturer
+girafes
+girafe
+lancer sur
+il va lancer sur
+avaler
+il va avaler
+cultiver
+il va cultiver
+enclos pour les troupeaux
+enclos pour les troupeaux
+prendre au piège
+il va  prendre au piège
+lapider
+il va lapider
+boutons d’un vêtement
+bouton d’un vêtement
+cultivateur
+cultivateuse
+cultivateurs
+soi-même
+animaux rampants
+époux
+épouse
+époux
+donner en mariage
+il va donner en mariage
+passager
+plus
+olives
+une olive
+raser
+il va raser
+barbier
+barbiere
+barbiers
+feuilles de palmier
+feuille de palmier
+colère
+fâché
+fâchée
+fâchés
+mécontenter
+il va mécontenter
+personne qui se fâche facilement
+personne qui se fâche facilement
+personnes qui se fâchent facilement
+huile pour moteur
+bon
+bonne
+bons
+côté droit
+à droite
+champ
+champs
+beurre
+résumé
+goudron
+petit cadeau à déguster
+souvenir
+souvenir
+souvenirs
+tremblement de terre
+adultère
+beauté
+plus
+visite
+visites
+se fâcher
+il va se fâcher
+tourbillon
+époux
+épouse
+époux
+personne
+arrogance
+poitrine
+poitrines
+rhume
+rhumes
+injustice
+corde
+cordes
+émeraude
+mensonge
+descendance
+descendances
+conditions

@@ -12762,3 +12762,486 @@ se casser
 écrire
 avoir peur
 se retourner
+
+Ce nouveau bâtiment a une très belle apparence.
+L'enseignant a posé une question difficile à l'élève.
+Cette femme patiente a beaucoup de patience avec ses enfants.
+Le temps la nuit devient un peu frais.
+L'odeur du pain est bonne.
+Le chameau marche patiemment dans le désert.
+Ce nouveau film était très divertissant.
+Ce papier blanc a des mots écrits dessus.
+Cette porte en bois est très lourde.
+Cette vieille chaise est cassée.
+Cette grande bibliothèque a beaucoup de livres.
+Ce chat se promène dans tous les coins de la maison.
+Cette voiture rouge est très rapide.
+Ce beau jardin a des fleurs colorées.
+La vue de cette haute montagne est très magnifique.
+Le croissant de lune brille dans le ciel la nuit.
+La lumière de cette étoile est très visible.
+Ce nuage noir va apporter la pluie.
+Le temps est très chaud aujourd'hui.
+Cette clé argentée ouvre la boîte.
+Ce garçon est très intelligent dans ses études.
+Cette fille est très belle et gentille.
+Ce grand frère aide aux tâches ménagères.
+Cette petite sœur joue avec le jouet.
+Cet oncle est très généreux avec les enfants de son frère.
+Cette tante est très gentille avec ses voisins.
+Ce travailleur est très fort, il peut soulever des objets lourds.
+L'artiste a dessiné un beau dessin.
+L'ingénieur a construit une maison très solide.
+Ce commerçant est très riche, il a beaucoup d'argent.
+Ce pauvre a besoin d'aide.
+Ce malade est très fatigué, il veut un médicament.
+Ce voyageur est très loin de sa famille.
+Ce leader a des paroles influentes.
+Ce soldat est très courageux pour défendre le pays.
+Ce fermier cultive la terre avec effort.
+Cet enfant est intelligent et comprend vite.
+Ces jeunes veulent changer la société.
+Cette vieille femme a beaucoup de sagesse de sa vie.
+Ce chien fidèle garde très bien la maison.
+Ce chat est très joueur et aime s'amuser.
+Cet âne est patient et porte les objets lourds.
+Cette vache donne beaucoup de lait.
+Cette poule a pondu beaucoup d'œufs.
+La course de ce cheval est très rapide.
+Ce poisson nage rapidement dans l'eau.
+Cette fourmi travaille dur pour collecter la nourriture.
+Cette abeille produit du très délicieux miel .
+Le parfum de cette rose est très agréable.
+Le jasmin a de belles fleurs blanches.
+Ce piment est très piquant, tu ne peux pas en manger beaucoup.
+Cette datte est très sucrée et bénéfique pour le corps.
+Le goût de cette orange est délicieux.
+Cette banane est molle et se digère facilement.
+Cet ananas a une écorce rugueuse.
+Cette mangue est très sucrée et fond dans la bouche.
+Ce yaourt est frais et adoucit l'estomac.
+Ce fromage est un peu salé mais son goût est bon.
+Cette huile est importante pour la nutrition et la santé.
+Ce sucre est très sucré et rend le thé délicieux.
+Le pain complet est plus bénéfique pour la santé que le pain blanc.
+Cette viande est très bonne si tu la cuisines bien.
+Ce riz cuit facilement et constitue un repas appétissant.
+Ces pâtes de macaroni sont un plat rapide et délicieux.
+Cet œuf est important pour le corps et donne de la force.
+Les haricots sont un plat célèbre au Tchad.
+le haricot est très bénéfique pour le corps.
+Ces légumes sont colorés et bons pour la santé.
+Ces fruits sont sucrés et très bénéfiques.
+Cette eau est importante pour la vie et toutes les créatures.
+Cet air est pur et important pour la respiration.
+Ce soleil donne de la lumière et de la chaleur.
+Cette terre donne beaucoup de richesses.
+Ce ciel est vaste et contient des étoiles et des nuages.
+Cette nuit est sombre et paisible.
+Ce jour est ensoleillé et animé.
+L'aube est un moment magnifique pour la prière.
+Midi est le moment le plus chaud de la journée.
+L'après-midi est le moment après midi.
+Le coucher du soleil est le moment du maghrib.
+La prière de l'isha est la dernière prière de la nuit.
+La semaine compte sept jours.
+Le mois compte quatre semaines ou un peu plus.
+L'année compte douze mois.
+La saison est l'une des quatre saisons de l'année.
+Le printemps est une saison très chaude.
+L'automne est une saison entre l'été et l'hiver.
+L'hiver est une saison très froide.
+Le printemps est une très belle saison où les fleurs éclosent.
+Aujourd'hui, je me sens très heureux.
+Cette place est très belle la nuit.
+Ce bureau est propre et ordonné.
+Cette maison est très grande et spacieuse.
+la mosquée est un lieu sacré pour les musulmans.
+Ce marché est rempli de différents types de marchandises.
+Cet hôpital est un lieu pour soigner les malades.
+Cette école est un lieu pour éduquer les enfants.
+Cette université est un lieu pour étudier les sciences supérieures.
+je suis très belle mais toi tu es vilain.
+Cette maison m'a plu tellement elle est belle.
+Ce garçon intelligent comprend vite.
+Cette fille joue avec la poupée.
+Les hommes sont venus du marché avec l'argent.
+Ces femmes travaillent la terre tous les jours.
+Ce nouveau vêtement est très beau.
+Ces grandes maisons ont beaucoup de monde.
+Ce chien garde les moutons contre les loups.
+Cette femme a cuisiné un plat délicieux.
+La paix soit sur vous et la miséricorde de Dieu.
+Le feu ou l'eau dans le puits.
+L'oiseau a détruit notre champ dans la cour.
+Le chemin nous a perdus dans la forêt.
+L'arbre a bien poussé dans le jardin.
+Le champ est loin du village.
+Cet homme est un docteur, il aide les malades.
+L'hôpital est bon pour les personnes malades.
+J'ai une lettre pour toi, n'oublie pas.
+Mon amie chère, la paix soit sur toi !
+Je suis heureuse de t'écrire et de te donner des nouvelles.
+Avant toute chose, je demande de tes nouvelles et de celles de ta famille !
+Quant à moi, je vais bien avec ma famille.
+Comment est l'automne dans votre village ?
+Ici à N'Djamena, quand l'automne a commencé, la pluie ne tombait pas bien.
+Mais maintenant l'automne est bon d'un coup.
+Et la mauvaise chose, les moustiques sont devenus très nombreux et causent le paludisme aux gens.
+Comment sont les études des filles ?
+Avez-vous bien terminé ?
+Avez-vous appris à écrire et à lire ?
+Si oui, je serai très heureuse.
+Le conseil que je peux te donner, ne quittez jamais les études.
+Car si vous apprenez à lire, à écrire et à lire, c'est bien.
+Je n'ai plus d'autres nouvelles à te donner et à la fin je salue ta famille et toutes les personnes que tu connais et tes voisins.
+De ton amie Arafa.
+Mon livre.
+Ton livre .
+Ton livre .
+Son livre .
+Son livre .
+Notre livre.
+Votre livre.
+Leur livre.
+Sa mère .
+Son enfant .
+Ahmed me salue.
+Ahmed te salue .
+Ahmed te salue .
+Ahmed le salue .
+Ahmed la salue .
+Ahmed nous salue.
+Ahmed vous salue.
+Ahmed les salue.
+Il a frappé ce garçon.
+Ce garçon, c'est lui qui l'a frappé.
+J'ai salué mon voisin Haroun.
+Mon voisin Haroun, je l'ai salué.
+Nous avons pris le livre.
+Ce livre, nous l'avons pris.
+Le giyaaf est un petit arbre dont la hauteur atteint environ trois ou cinq mètres et dont les feuilles sont épaisses.
+Et ses fruits sont soit ronds, soit un peu allongés, et leur chair est rouge ou blanche, et cela ne vient que de l'espèce de l'arbre.
+Médicament contre la diarrhée.
+Prenez une poignée de jeunes feuilles de giyaaf, et si l'arbre n'a pas de jeunes feuilles, prenez trois ou quatre feuilles mûres.
+Versez-les dans un litre d'eau, mettez-les sur le feu et laissez bouillir pendant vingt minutes.
+Filtrez-le et versez-le dans la bouteille, puis complétez le volume de la bouteille avec de l'eau pour compléter son manque.
+Et faites bouillir cette eau sur le feu.
+Et ajoutez-y :
+Cinq grandes cuillères de sucre.
+Quatre pincées de sel.
+Une pincée de sel, c'est la quantité de sel qu'une personne peut prendre avec trois doigts.
+Et laissez bouillir encore une minute, puis retirez-le du feu et versez-le dans la bouteille.
+Au lieu du sucre, vous pouvez utiliser du miel.
+Au lieu du sel, vous pouvez utiliser des tchururu.
+Au lieu des feuilles de giyaaf, vous pouvez utiliser de jeunes feuilles de mangue ou des feuilles de manguier.
+Et si vous n'avez pas du tout ces feuilles, préparez l'eau salée avec du sucre.
+La chose importante est que vous devez boire beaucoup d'eau pour compenser l'eau perdue pendant que vous avez la diarrhée.
+Donnez au malade de plus de six ans :
+Un grand verre après chaque selle, et cela représente environ quatre litres par jour.
+Donnez à l'enfant de deux à six ans :
+Un petit verre après chaque selle, et cela représente environ trois litres par jour.
+Donnez à l'enfant de six mois à deux ans :
+Un demi-petit verre après chaque selle, et cela représente environ deux litres par jour.
+Pour l'enfant de moins de six mois :
+Juste des cuillères après chaque selle, et cela représente environ un litre par jour.
+Attention : si la diarrhée ne s'arrête pas pendant trois jours, traitez le malade contre les vers.
+O mon frère Tchadien.
+Tu as bien dormi – tu as bien passé la journée.
+À Mongo et Durbali – dans le Dar Ouaddaï et la vallée.
+À Bongor et Ati – à Mao et Dounama.
+Dans le Batha et le Fitri – dans le Logone et le Chari.
+Tu es mon frère Tchadien.
+Tu es Sara ou Gourane – Arabe ou Tama.
+Bornouan ou Ouaddaïen – Baguirmien ou Kanembou.
+Toubou ou Hadjarai – Zaghawa ou Mimi.
+Le faki et le forgeron – le berger et l'éleveur.
+Le maître des wade et du ambaay – le maître de l'eau et le cultivateur.
+Le chauffeur et le maçon – le boucher et le forgeron.
+vous etes tous ma famille – ô mon frère Tchadien.
+Et Khamis mon ami – qui vient de Melfi.
+Khadija et Tonton Illi – et Jimadoum mon voisin.
+Et Baana'aji mon camarade – et Toguoy mon beau-père.
+Ma main dans ta main – construisons notre patrie.
+Fatime Zahra, fille du faki.
+Et Mahajiriya, sœur de Tijani.
+Et leur voisine Fatime m'a raconté : "Elle me voulait et ne m'a pas voulue."
+Ils sont tous ma famille – ils sont tous ta famille.
+J'ai écrit.
+Nous avons écrit.
+Tu as écrit .
+Vous avez écrit.
+Tu as écrit .
+Il a écrit.
+Ils ont écrit.
+Elle a écrit.
+J'ai mangé de la viande séchée.
+Tu as enfilé tes sandales.
+Je l'ai mangé.
+Tu l'as jeté.
+Ma belle fille, allant au village les cheveux lisses... : La route!
+J'ai deux portes qui s'ouvrent et se ferment... Ce sont les yeux !
+Il frappe le tambour mais ne se reproduit pas... C'est le mortier !
+Des hommes petits, leurs bagarres sont chaudes... Ce sont les piments !
+La séparation est facile, et la difficile, c'est la réunion.
+Le moustique ne mange pas deux automnes.
+Le regard ne tue pas la gazelle.
+Le mensonge a une corde courte.
+Mon enfant est intelligent.
+Nos maisons sont grandes.
+Son chien est fort.
+Ses frères sont venus.
+Son livre est neuf.
+Son habit est bon.
+Il m'a parlé.
+Je lui ai appris les lettres.
+Tu l'as interrogé sur ses enfants.
+Nous lui avons donné le livre.
+Elle lui a trompé.
+L'as-tu frappé  ?
+Vous l'avez expulsé.
+Ils l'ont tué.
+J'ai mangé la boule chez lui.
+Tu as dejà de boire.
+J'ai écrit à mon frère.
+Tu as avalé une mouche !
+Laisse-le parler !
+Nous avons fini le travail hier.
+hawa balaye sa cour.
+L'hôpital est au milieu du village.
+La grande mosquée est à côté du marché.
+hawa est allée à l'école.
+Tu as pris mon livre.
+Le thé est dans la théière.
+Hier, j'ai emmené mon enfant à l'hôpital parce qu'il avait le paludisme.
+Tu es pauvre.
+Va, je ne te verrai pas.
+Les hommes sont revenus de la guerre.
+Ne fais pas attention à moi.
+Qu'est-ce que tu veux ?
+N'aie pas peur.
+Hé, écoute !
+Je te le dis fuis.
+Comme si je ne suis pas ta fille.
+Je n'ai pas d'autre parole.
+Que tu veuilles ou non, je le ferai.
+Ça t'a plus?
+C'est qui cette personne?.
+J'ai fait de mon mieux.
+Maintenant, il n'y a plus de halal.
+Ils m'ont dit.
+O Dieu, aide-moi.
+Ça t'a paru étrange non?
+Je te l'ai dit bien avant.
+Nous sommes venus du marché.
+Beaucoup de gens sont venus.
+J'ai attrapé la porte pour toi.
+Qui t'a dis ?
+Nous sommes assis ici.
+Nous allons cuisiner la nourriture.
+Ce jour est beau.
+Je suis allé au champs depuis longtemps.
+Il est là à l'interieur.
+La mort est le destin.
+Je te dis que ce qui est resté n'est pas beaucoup.
+Celui qui ne se trompe pas, c'est seulement Dieu.
+As-tu apporté quelque chose d'abord ?
+Si tu ne viens pas, je ne partirai pas.
+Je veux partir.
+Maintenant, cet argent n'est pas tout le tien, tu as perdu beaucoup.
+L'homme qui est là, à partir d'aujourd'hui, cette fille, tu ne la trouveras plus.
+Je t'ai beaucoup cherché.
+Je risque de te faire de mauvaises choses.
+J'ai pitié de toi.
+Je vais enlever ma part.
+je ne te le laisserai pas.
+Réfléchis à ces mots.
+Je vivrai avec toi, une belle vie.
+Ils m'ont donné un autre homme.
+La souffrance que j'ai enduré à cause de toi.
+C'est aussi contre mon gré.
+C'est mon père qui m'a forcé.
+Très heureux.
+s'il plait à Dieu il fera des bonnes traductions.
+
+Le père aime ses enfants sans limites, et prie pour eux tous les jours.
+Le roi réfléchissait au problème des enfants pour établir la vérité entre eux.
+Il y'a trop de sel, tu ne peux pas manger cette nourriture.
+Les mots doux peuvent facilement changer les cœurs fermés.
+Cette nouvelle maison protège les gens de la forte pluie et du soleil chaud.
+La personne qui ne tient pas sa promesse peut perdre la confiance des gens.
+L'arbre donne une bonne ombre dans le désert, pour que les gens s'assoient dessous.
+Le vieil homme racontait des histoires sur les ancêtres aux enfants la nuit.
+Cette histoire raconte la grande sagesse du roi sage.
+Les gens heureux louaient Dieu parce qu'il leur a donné le bonheur.
+Le travailleur travaille tous les jours sans fatigue, il veut gagner de l'argent pour sa famille.
+Le roi a dit à l'homme riche  "Tu ne peux pas amasser des biens sans justice."
+Le petit garçon courait derrière le chien dans la grande rue.
+Les gens qui ne voient pas les bonnes choses dans leur vie ne pourront jamais atteindre aucun endroit.
+L'eau pure est importante pour la vie des humains et des animaux.
+La personne sage réfléchit longuement avant de prononcer ses paroles.
+La forêt était remplie de grands arbres et de nombreux animaux.
+Les enfants jouaient dans la cour, et le cheikh les regardait depuis la porte.
+La guerre a détruit tout dans le pays, et a laissé les gens dans la faim et la tristesse.
+La nouvelle école avait de bons professeurs qui enseignaient facilement aux enfants.
+Le petit garçon ne voulait pas laisser sa mère seule à la maison.
+Ce qui ne peut pas être changé est le destin que Dieu a écrit pour la personne.
+La personne qui prie tous les jours, Dieu lui ouvre les portes de la subsistance.
+Les bonnes paroles rassemblent les gens, et les mauvaises paroles les séparent.
+Cette nouvelle maison protège la famille de la peur et des problèmes.
+Les gens qui travaillent avec leur cœur obtiennent la bénédiction dans leur subsistance.
+Les gens travaillaient tous les jours dans le grand champ.
+Le petit garçon a dit à sa mère  "Je veux nourriture délicieuse comme la mangue."
+Cette grande rue avait un marché qui rassemblait beaucoup de monde de tous les côtés.
+L'eau froide peut entraîner la fin de la fatigue si tu la bois le matin.
+Le docteur a dit à la femme une chose importante sur le médicament qu'elle doit prendre tous les jours.
+Ce chien est très grand, il protège la maison des voleurs.
+L'arbre qui pousse chaque jour donne des fruits doux aux gens.
+Ce verre était rempli d'une substance noire comme de l'huile, tu ne peux pas la boire.
+La personne qui ne garde pas ses secrets peut perdre tout ce qu'elle possède en peu de temps.
+La guerre brûle les maisons et sépare les familles, et laisse les gens dans une longue tristesse.
+La grande faim a poussé les gens à aller voir l'homme riche dans le village lointain.
+La nouvelle école avait de bons professeurs qui enseignaient aux enfants les nouvelles technologies.
+Le petit garçon ne voulait pas laisser sa mère seule dans la grande maison.
+Ce qui ne peut pas être changé est le destin que Dieu a écrit pour la personne depuis le début.
+La personne qui prie tous les jours, Dieu lui ouvre les portes de la subsistance de tous les côtés.
+Les bonnes paroles rassemblent les gens, et les mauvaises paroles les séparent tous les jours.
+Cette nouvelle maison protège la famille de la peur et du problème sans fin.
+Les gens qui travaillent avec leur cœur obtiennent la bénédiction dans leur subsistance et dans leurs enfants.
+L'homme sage a dit  "La patience est la clé du bonheur dans le monde."
+Cette femme a réfléchi longtemps avant de prendre la décision importante.
+Les enfants jouaient dans la grande cour, et le cheikh les regardait depuis la porte ouverte.
+Ce grand champ donne beaucoup de nourriture à tous les gens du village.
+Le cultivateur travaillait la terre du matin au coucher du soleil, sans fatigue.
+Les mots doux peuvent facilement changer les cœurs fermés, même si c'est difficile.
+La personne qui ne tient pas sa promesse peut perdre la confiance des gens à tout moment.
+L'arbre donne une bonne ombre dans le désert, pour que les gens s'y asseyent et se reposent.
+La forêt était remplie de grands arbres et de nombreux animaux qui couraient dedans.
+Les gens qui travaillent avec leur cœur obtiennent la bénédiction dans leur subsistance, dans leurs enfants et dans tout.
+Le petit garçon courait derrière le chien dans la grande rue, et il était heureux.
+Les gens qui ne voient pas les bonnes choses dans leur vie ne pourront jamais atteindre aucun endroit qu'ils voulaient atteindre.
+L'eau pure est importante pour la vie des humains et des animaux chaque jour.
+La personne sage réfléchit longuement avant de prononcer ses paroles pour être juste.
+Les enfants jouaient dans la cour, et le cheikh les regardait depuis la porte ouverte avec joie.
+La guerre a détruit tout dans le pays, et a laissé les gens dans une faim et une tristesse sans fin.
+La nouvelle école avait de bons professeurs qui enseignaient facilement et avec amour aux enfants.
+Le petit garçon ne voulait pas laisser sa mère seule à la maison, il l'aimait beaucoup.
+Ce qui ne peut pas être changé est le destin que Dieu a écrit pour la personne avant  la création.
+La personne qui prie tous les jours, Dieu lui ouvre les portes de la subsistance de tous les côtés, et rend sa vie bonne.
+Les bonnes paroles rassemblent les gens, et les mauvaises paroles les séparent tous les jours et créent des problèmes.
+Cette nouvelle maison protège la famille de la peur et du problème sans fin, et les met en sécurité.
+Les gens qui travaillent avec leur cœur obtiennent la bénédiction dans leur subsistance, dans leurs enfants et dans tout ce qu'ils possèdent.
+L'homme sage a dit "La patience est la clé du bonheur dans ce monde et dans l'au-delà."
+Cette femme a réfléchi longuement avant de prendre la décision importante afin de ne pas le regretter.
+Les enfants jouaient dans la grande cour, et le cheikh les regardait depuis la porte ouverte avec joie et gratitude.
+Ce grand champ donne beaucoup de nourriture à tous les gens du village et les rend rassasiés.
+Le cultivateur travaillait la terre du matin au coucher du soleil, sans fatigue, il voulait une subsistance licite.
+Les mots doux peuvent facilement changer les cœurs fermés, même si c'est très difficile.
+La personne qui ne tient pas sa promesse peut perdre la confiance des gens à tout moment, et se retrouver seule.
+L'arbre donne une bonne ombre dans le désert, pour que les gens s'y asseyent et se reposent de la chaleur.
+La forêt était remplie de grands arbres et de nombreux animaux qui couraient dedans en sécurité.
+L'ombre d'un grand arbre est bonne pour les gens sous la chaleur.
+Cette femme pleure sur son enfant mort.
+Un vieil homme va au puits tous les jours boire de l'eau.
+Les enfants sont rentrés heureux de l'école après leurs examens.
+Le feu brûle la vieille maison, elle n'a pas pu laisser quoi que ce soit.
+La peur remplissait les cœurs des gens à cause de la grande guerre.
+La patience est la clé du bonheur dans ce monde, une parole sage.
+L'eau a rempli l'oued quand la pluie est tombée fortement.
+Mon père m'a donné beaucoup d'argent, il m'a dit "achète tout".
+Un grand marché à N'Djamena, beaucoup de gens vendent et achètent.
+Le chien courait après l'animal, il n'a pas pu l'attraper vite.
+Tu ne peux pas apprendre tout à un petit enfant en un seul jour.
+Les femmes du village ramassent du bois chaque jour pour le feu.
+Le garçon qui prie tous les jours, Dieu le bénit dans sa vie.
+Les mots doux ouvrent les cœurs fermés, ils rassemblent les gens.
+Ce qui ne peut pas être changé est le destin que Dieu a écrit.
+Une personne sage réfléchit longuement avant de prononcer ses paroles.
+La forêt est remplie de grands arbres et de nombreux animaux.
+La guerre a détruit tout dans le pays, laissant la faim et la tristesse.
+La nouvelle école enseigne aux enfants les nouvelles technologies.
+Le petit garçon ne veut pas laisser sa mère seule.
+La personne qui travaille avec son cœur obtient la bénédiction dans sa subsistance.
+Cette femme a réfléchi longtemps avant de prendre la décision.
+Ce grand champ donne beaucoup de nourriture à tous les gens du village.
+Le cultivateur travaille la terre du matin au soir sans fatigue.
+La personne qui ne tient pas sa promesse peut perdre la confiance des gens.
+La patience est victoire, prie avec patience dans les difficultés de la vie.
+Le peureux élève ses enfants, il se protège de la destruction.
+La mort n'est pas une peur, c'est une réalité que tout le monde verra.
+La vie n'a pas de sens sans amour et honnêteté véritable.
+L'avenir fait peur aux gens, mais il faut faire confiance à Dieu.
+Parfois, une personne fait quelque chose avec de bonnes intentions mais ne connaît pas sa honte.
+Si tu dis à quelqu'un "Je te donnerai quelque chose", tiens ta promesse.
+Le travailleur est affamé, donne-lui à manger pour qu'il puisse faire le travail.
+Le pauvre ne se querelle pas avec le sultan, il doit le respecter.
+La puissance enseigne la désobéissance, si tu désobéis, la puissance te pousse.
+Un grand taureau n'équivaut pas à cent animaux en sagesse.
+Fais attention à l'ombre, ne coupe pas la parole, ne coupe pas le discours.
+La main ne pèse pas, ne jette pas au milieu des gens.
+L'œil a peur et la main est destructrice, commence un travail et finis-le.
+Si une mesure est à côté de toi, tu la désires. Et si des mots sont à côté de toi, tu les dis aussi.
+Ne compte pas comme tes jours le mois où ta chamelle ne met pas bas.
+Les voisins sont comme les dents avec la langue, ils se mordent mais vivent ensemble.
+Vivre sans biens est difficile, c'est dur mais la patience est nécessaire.
+Si tu ne peux pas résoudre un problème ou faire le travail qu'on te demande, ne t'y mêle pas.
+La pauvreté t'enseigne l'avarice, si tu ne connais pas quelque chose, apprends le.
+Trop de naissances brisent le cou de l'enfant, laissez une seule personne s'en occuper.
+Un pays "amcharr" signifie un endroit où il y a une maladie ou une guerre. Éloigne-toi.
+On ne vend pas une vache qui a beaucoup de lait, et on ne divorce pas d'une femme qui a un bon comportement.
+Une grande fumée s'est élevée d'un feu effrayant dans la brousse.
+Le travailleur fait son travail chaque jour sans se plaindre.
+La grande vie contient joie et tristesse, il faut être patient.
+Un roi sage gouverne les gens avec justice et équité chaque jour.
+Ce garçon travailleur a beaucoup travaillé pour aider sa famille.
+Un village lointain a des gens bons qui s'aiment les uns les autres.
+Nous arrosons notre champ intensément chaque matin.
+L'eau froide est bonne à boire sous le soleil brûlant.
+Ce livre contient une vieille histoire qui raconte la sagesse.
+Un grand oiseau a volé dans le ciel bleu.
+"Waajib tihfaz kalaamak kan gultoh".
+Une petite femme a vu un chien courir après un lapin dans la forêt.
+Beaucoup de gens sont venus au marché aujourd'hui, ils achètent de tout.
+La patience donne de la joie, il faut être patient en toute chose.
+L'air chaud est entré dans la maison, les gens ont ouvert les portes.
+Un grand arbre donne des fruits doux aux gens chaque automne.
+L'ancien médicament bénéficiait à beaucoup de gens contre la maladie.
+Une bonne éducation ouvre l'esprit de l'enfant, le rendant sage.
+Une petite fille priait à côté de sa mère chaque nuit.
+De nouveaux vêtements ont été mis au garçon joyeux, il était très heureux.
+La mort est une réalité qui ne supporte pas de retard, elle vient quand Dieu le veut.
+Vivre sans bonheur est difficile, cela n'a pas de sens véritable.
+Une chose importante dans notre vie, il faut la préserver de ce monde.
+Une personne qui travaille bien, Dieu la bénit dans sa subsistance et dans sa famille.
+Quand la pluie est tombée, l'oued s'est rempli d'eau et les gens se sont réjouis.
+Les mots doux ouvrent les cœurs des gens, les faisant s'aimer les uns les autres.
+Une nouvelle maison construite avec de grandes pierres, elle protège la famille de tout.
+Beaucoup de gens sont venus à la grande fête dans le village.
+Une grande patience est nécessaire dans notre vie, pour atteindre le bonheur.
+L'air chaud est entré dans le pays, les gens ont commencé à aller au puits.
+Le cultivateur travaille sa terre chaque jour pour récolter.
+Le garçon qui écoute les paroles de son père et de sa mère, il est une bénédiction.
+Une vieille histoire raconte la sagesse des anciens.
+La forêt est remplie d'arbres et d'animaux.
+Les femmes du village ramassent de l'herbe chaque jour pour leurs animaux.
+Un grand roi gouvernait les gens avec justice et sagesse.
+Le garçon qui prie chaque matin, Dieu lui ouvre les portes de la subsistance.
+N'oublie pas les mots doux, ils ouvrent les cœurs fermés.
+Une nouvelle maison protège la famille de la peur et des problèmes du monde.
+Les gens qui travaillent avec leur cœur, ils obtiennent la bénédiction en toute chose.
+L'homme sage a dit "La patience est victoire en toute chose difficile."
+Cette femme réfléchit longuement avant de prendre une décision.
+Les enfants ont joué dans une grande cour, très heureux.
+Un grand champ donne beaucoup de nourriture à tous les gens du village.
+Le cultivateur travaille sa terre de l'aube au crépuscule.
+Les mots doux peuvent changer les cœurs fermés avec facilité.
+La personne qui ne tient pas sa promesse perd la confiance des gens en elle.
+L'arbre donne une bonne ombre dans le désert pour les gens.
+La forêt est remplie de grands arbres et de nombreux animaux.
+La guerre a détruit tout dans le pays, laissant faim et tristesse.
+la vie est belle
+Tous le monde est present aujourd'hui pour assiter à ma soutenance
+Je ne suis pas d'accord avec ce que tu viens de dire.
+Pourquoi les gens sont si compliqués?
+Le Tchad est beau
+Il fait tellement chaud ici.

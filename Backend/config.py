@@ -1,5 +1,9 @@
 # /home/koubra/Documents/PFE/InterfacePFE/Backend/config.py
 import os
+from dotenv import load_dotenv
+
+load_dotenv()
+
 basedir = os.path.abspath(os.path.dirname(__file__))
 class Config:
     SQLALCHEMY_DATABASE_URI = f'sqlite:///{os.path.join(basedir, "instance", "app.db")}?check_same_thread=False'
